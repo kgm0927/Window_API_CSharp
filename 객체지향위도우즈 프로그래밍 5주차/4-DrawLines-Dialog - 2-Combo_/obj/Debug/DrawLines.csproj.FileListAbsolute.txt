@@ -1,0 +1,41 @@
+D:\C#\실습과제들\4 - DrawLines 모음\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.exe.config
+G:\C#\[ 실습과제들\4 - DrawLines 모음\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.exe.config
+G:\C#\[ 실습과제들\4 - DrawLines 모음\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.exe
+G:\C#\[ 실습과제들\4 - DrawLines 모음\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.pdb
+G:\C#\[ 실습과제들\4 - DrawLines 모음\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+G:\C#\[ 실습과제들\4 - DrawLines 모음\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.Form1.resources
+G:\C#\[ 실습과제들\4 - DrawLines 모음\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.Form2.resources
+G:\C#\[ 실습과제들\4 - DrawLines 모음\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.Properties.Resources.resources
+G:\C#\[ 실습과제들\4 - DrawLines 모음\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+G:\C#\[ 실습과제들\4 - DrawLines 모음\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.exe
+G:\C#\[ 실습과제들\4 - DrawLines 모음\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.exe
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.exe
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo\bin\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.Form1.resources
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.Form2.resources
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo_\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.exe
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.Form1.resources
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.Form2.resources
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo_\bin\Debug\DrawLines.exe
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 2-Combo_\bin\Debug\DrawLines.pdb
+E:\객체지향위도우즈 프로그래밍 5주차\4-DrawLines-Dialog - 2-Combo_\bin\Debug\DrawLines.exe.config
+E:\객체지향위도우즈 프로그래밍 5주차\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.exe
+E:\객체지향위도우즈 프로그래밍 5주차\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.pdb
+E:\객체지향위도우즈 프로그래밍 5주차\4-DrawLines-Dialog - 2-Combo_\bin\Debug\DrawLines.exe
+E:\객체지향위도우즈 프로그래밍 5주차\4-DrawLines-Dialog - 2-Combo_\bin\Debug\DrawLines.pdb
+E:\객체지향위도우즈 프로그래밍 5주차\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.Form1.resources
+E:\객체지향위도우즈 프로그래밍 5주차\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.Form2.resources
+E:\객체지향위도우즈 프로그래밍 5주차\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.Properties.Resources.resources
+E:\객체지향위도우즈 프로그래밍 5주차\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+E:\객체지향위도우즈 프로그래밍 5주차\4-DrawLines-Dialog - 2-Combo_\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
