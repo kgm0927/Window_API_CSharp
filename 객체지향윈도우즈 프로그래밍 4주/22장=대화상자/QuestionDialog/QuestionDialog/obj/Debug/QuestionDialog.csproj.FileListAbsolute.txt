@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\22장=대화상자\QuestionDialog\QuestionDialog\bin\Debug\QuestionDialog.exe.config
+C:\Users\Student\Desktop\22장=대화상자\QuestionDialog\QuestionDialog\bin\Debug\QuestionDialog.exe
+C:\Users\Student\Desktop\22장=대화상자\QuestionDialog\QuestionDialog\bin\Debug\QuestionDialog.pdb
+C:\Users\Student\Desktop\22장=대화상자\QuestionDialog\QuestionDialog\obj\Debug\QuestionDialog.Form1.resources
+C:\Users\Student\Desktop\22장=대화상자\QuestionDialog\QuestionDialog\obj\Debug\QuestionDialog.Form2.resources
+C:\Users\Student\Desktop\22장=대화상자\QuestionDialog\QuestionDialog\obj\Debug\QuestionDialog.Properties.Resources.resources
+C:\Users\Student\Desktop\22장=대화상자\QuestionDialog\QuestionDialog\obj\Debug\QuestionDialog.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\22장=대화상자\QuestionDialog\QuestionDialog\obj\Debug\QuestionDialog.exe
+C:\Users\Student\Desktop\22장=대화상자\QuestionDialog\QuestionDialog\obj\Debug\QuestionDialog.pdb

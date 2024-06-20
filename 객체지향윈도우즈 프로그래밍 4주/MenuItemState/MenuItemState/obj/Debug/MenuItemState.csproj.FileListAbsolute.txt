@@ -1,0 +1,17 @@
+C:\Users\Student\Desktop\MenuItemState\MenuItemState\bin\Debug\MenuItemState.exe.config
+C:\Users\Student\Desktop\MenuItemState\MenuItemState\bin\Debug\MenuItemState.exe
+C:\Users\Student\Desktop\MenuItemState\MenuItemState\bin\Debug\MenuItemState.pdb
+C:\Users\Student\Desktop\MenuItemState\MenuItemState\obj\Debug\MenuItemState.Form1.resources
+C:\Users\Student\Desktop\MenuItemState\MenuItemState\obj\Debug\MenuItemState.Properties.Resources.resources
+C:\Users\Student\Desktop\MenuItemState\MenuItemState\obj\Debug\MenuItemState.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\MenuItemState\MenuItemState\obj\Debug\MenuItemState.exe
+C:\Users\Student\Desktop\MenuItemState\MenuItemState\obj\Debug\MenuItemState.pdb
+E:\객체지향윈도우즈 프로그래밍 4주\MenuItemState\MenuItemState\bin\Debug\MenuItemState.exe.config
+E:\객체지향윈도우즈 프로그래밍 4주\MenuItemState\MenuItemState\obj\Debug\MenuItemState.exe
+E:\객체지향윈도우즈 프로그래밍 4주\MenuItemState\MenuItemState\obj\Debug\MenuItemState.pdb
+E:\객체지향윈도우즈 프로그래밍 4주\MenuItemState\MenuItemState\bin\Debug\MenuItemState.exe
+E:\객체지향윈도우즈 프로그래밍 4주\MenuItemState\MenuItemState\bin\Debug\MenuItemState.pdb
+E:\객체지향윈도우즈 프로그래밍 4주\MenuItemState\MenuItemState\obj\Debug\MenuItemState.csprojResolveAssemblyReference.cache
+E:\객체지향윈도우즈 프로그래밍 4주\MenuItemState\MenuItemState\obj\Debug\MenuItemState.Form1.resources
+E:\객체지향윈도우즈 프로그래밍 4주\MenuItemState\MenuItemState\obj\Debug\MenuItemState.Properties.Resources.resources
+E:\객체지향윈도우즈 프로그래밍 4주\MenuItemState\MenuItemState\obj\Debug\MenuItemState.csproj.GenerateResource.Cache

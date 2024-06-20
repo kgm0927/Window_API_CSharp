@@ -1,0 +1,20 @@
+C:\Users\Student\Desktop\LabelPos\LabelPos\bin\Debug\LabelPos.exe.config
+C:\Users\Student\Desktop\LabelPos\LabelPos\bin\Debug\LabelPos.exe
+C:\Users\Student\Desktop\LabelPos\LabelPos\bin\Debug\LabelPos.pdb
+C:\Users\Student\Desktop\LabelPos\LabelPos\obj\Debug\LabelPos.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\LabelPos\LabelPos\obj\Debug\LabelPos.Form1.resources
+C:\Users\Student\Desktop\LabelPos\LabelPos\obj\Debug\LabelPos.Form2.resources
+C:\Users\Student\Desktop\LabelPos\LabelPos\obj\Debug\LabelPos.Properties.Resources.resources
+C:\Users\Student\Desktop\LabelPos\LabelPos\obj\Debug\LabelPos.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\LabelPos\LabelPos\obj\Debug\LabelPos.exe
+C:\Users\Student\Desktop\LabelPos\LabelPos\obj\Debug\LabelPos.pdb
+E:\객체지향윈도우즈 프로그래밍 4주\LabelPos\LabelPos\bin\Debug\LabelPos.exe.config
+E:\객체지향윈도우즈 프로그래밍 4주\LabelPos\LabelPos\obj\Debug\LabelPos.exe
+E:\객체지향윈도우즈 프로그래밍 4주\LabelPos\LabelPos\obj\Debug\LabelPos.pdb
+E:\객체지향윈도우즈 프로그래밍 4주\LabelPos\LabelPos\bin\Debug\LabelPos.exe
+E:\객체지향윈도우즈 프로그래밍 4주\LabelPos\LabelPos\bin\Debug\LabelPos.pdb
+E:\객체지향윈도우즈 프로그래밍 4주\LabelPos\LabelPos\obj\Debug\LabelPos.csprojResolveAssemblyReference.cache
+E:\객체지향윈도우즈 프로그래밍 4주\LabelPos\LabelPos\obj\Debug\LabelPos.Form1.resources
+E:\객체지향윈도우즈 프로그래밍 4주\LabelPos\LabelPos\obj\Debug\LabelPos.Form2.resources
+E:\객체지향윈도우즈 프로그래밍 4주\LabelPos\LabelPos\obj\Debug\LabelPos.Properties.Resources.resources
+E:\객체지향윈도우즈 프로그래밍 4주\LabelPos\LabelPos\obj\Debug\LabelPos.csproj.GenerateResource.Cache
