@@ -1,0 +1,9 @@
+E:\객체지향윈도우즈프로그래밍 2주차\17장=이벤트\Background\Background\bin\Debug\Background.exe
+E:\객체지향윈도우즈프로그래밍 2주차\17장=이벤트\Background\Background\bin\Debug\Background.pdb
+E:\객체지향윈도우즈프로그래밍 2주차\17장=이벤트\Background\Background\obj\Debug\Background.csproj.AssemblyReference.cache
+E:\객체지향윈도우즈프로그래밍 2주차\17장=이벤트\Background\Background\obj\Debug\Background.Form1.resources
+E:\객체지향윈도우즈프로그래밍 2주차\17장=이벤트\Background\Background\obj\Debug\Background.Properties.Resources.resources
+E:\객체지향윈도우즈프로그래밍 2주차\17장=이벤트\Background\Background\obj\Debug\Background.csproj.GenerateResource.cache
+E:\객체지향윈도우즈프로그래밍 2주차\17장=이벤트\Background\Background\obj\Debug\Background.csproj.CoreCompileInputs.cache
+E:\객체지향윈도우즈프로그래밍 2주차\17장=이벤트\Background\Background\obj\Debug\Background.exe
+E:\객체지향윈도우즈프로그래밍 2주차\17장=이벤트\Background\Background\obj\Debug\Background.pdb

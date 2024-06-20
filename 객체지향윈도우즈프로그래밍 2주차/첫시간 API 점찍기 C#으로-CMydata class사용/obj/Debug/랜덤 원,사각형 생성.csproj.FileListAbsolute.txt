@@ -1,0 +1,22 @@
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤 원,사각형 생성.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤_원_사각형_생성.Form1.resources
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤_원_사각형_생성.Properties.Resources.resources
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤 원,사각형 생성.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로-CMydata class사용\bin\Debug\랜덤 원 사각형 생성.exe.config
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로-CMydata class사용\bin\Debug\랜덤 원 사각형 생성.exe
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로-CMydata class사용\bin\Debug\랜덤 원 사각형 생성.pdb
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤 원 사각형 생성.exe
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤 원 사각형 생성.pdb
+E:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\bin\Debug\랜덤 원 사각형 생성.exe.config
+E:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤 원 사각형 생성.exe
+E:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤 원 사각형 생성.pdb
+E:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\bin\Debug\랜덤 원 사각형 생성.exe
+E:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\bin\Debug\랜덤 원 사각형 생성.pdb
+E:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤 원,사각형 생성.csproj.AssemblyReference.cache
+E:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤_원_사각형_생성.Form1.resources
+E:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤_원_사각형_생성.Properties.Resources.resources
+E:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤 원,사각형 생성.csproj.GenerateResource.cache
+E:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤 원,사각형 생성.csproj.CoreCompileInputs.cache
+F:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\bin\Debug\랜덤 원 사각형 생성.exe.config
+F:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤 원 사각형 생성.exe
+F:\객체지향윈도우즈프로그래밍 2주차\첫시간 API 점찍기 C#으로-CMydata class사용\obj\Debug\랜덤 원 사각형 생성.pdb

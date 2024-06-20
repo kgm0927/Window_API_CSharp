@@ -1,0 +1,52 @@
+ //자료구조
+
+    public class CMyData
+    {
+        private Point point;//위치
+        private Color penCol;//펜컬러
+        private Color brushCol;//브러쉬컬러
+        private int size,shape;//크기,모양
+
+        public Color pColor//펜컬러
+        {
+            get {return penCol;}
+            set {penCol = value;}
+        }
+        public Color bColor//브러쉬컬러
+        {
+            get { return brushCol; }
+            set { brushCol = value; }
+        }
+        public Point Point//위치
+        {
+            get { return point; }
+            set { point = value; }
+        }
+        public int Size//크기
+        {
+            get { return size; }
+            set { size = value; }
+        }
+        public int Shape//모양
+        {
+            get { return shape; }
+            set { shape = value; }
+        }
+    }
+
+-------------------------------------------------
+ mydata = new CMyData();//mydata 생성
+
+ ...
+ mydata.Size = rand.Next(30, 100);//크기저장 30~100까지
+
+//임의의 색깔생성
+ mydata.bColor = Color.FromArgb(rand.Next(256), rand.Next(256), rand.Next(256));
+
+ ar.Add(mydata);
+
+----------------------------------------------------
+
+//Brush, Pen 객체생성하기
+SolidBrush brc = new SolidBrush(data.bColor); //p.674
+Pen p = new Pen(data.pColor); //pp.660-661

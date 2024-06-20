@@ -1,0 +1,20 @@
+C:\Users\Student.PC-25\Desktop\TimerTimeTest\TimerTimeTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Student.PC-25\Desktop\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.Properties.Resources.resources
+C:\Users\Student.PC-25\Desktop\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.csproj.GenerateResource.Cache
+C:\Users\Student.PC-25\Desktop\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.MyTime.resources
+C:\Users\Student.PC-25\Desktop\TimerTimeTest\TimerTimeTest\bin\Debug\TimerTimeTest.exe
+C:\Users\Student.PC-25\Desktop\TimerTimeTest\TimerTimeTest\bin\Debug\TimerTimeTest.pdb
+C:\Users\Student.PC-25\Desktop\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.exe
+C:\Users\Student.PC-25\Desktop\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\[ ch별 실습과제 Project\ch 17\선그리기,타이머실습-윤영호\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\[ ch별 실습과제 Project\ch 17\선그리기,타이머실습-윤영호\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\[ ch별 실습과제 Project\ch 17\2012년 선그리기,타이머실습-윤영호\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\[ ch별 실습과제 Project\ch 17\2012년 선그리기,타이머실습-윤영호\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\[ ch별 실습과제 Project\ch 17\2012년 선그리기,타이머실습-윤영호\TimerTimeTest\TimerTimeTest\bin\Debug\TimerTimeTest.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\[ ch별 실습과제 Project\ch 17\2012년 선그리기,타이머실습-윤영호\TimerTimeTest\TimerTimeTest\bin\Debug\TimerTimeTest.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\[ ch별 실습과제 Project\ch 17\2012년 선그리기,타이머실습-윤영호\TimerTimeTest\TimerTimeTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\[ ch별 실습과제 Project\ch 17\2012년 선그리기,타이머실습-윤영호\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.MyTime.resources
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\[ ch별 실습과제 Project\ch 17\2012년 선그리기,타이머실습-윤영호\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.Properties.Resources.resources
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\[ ch별 실습과제 Project\ch 17\2012년 선그리기,타이머실습-윤영호\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.csproj.GenerateResource.Cache
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 실습과제 Project\ch 17\2012년 선그리기,타이머실습-윤영호\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 실습과제 Project\ch 17\2012년 선그리기,타이머실습-윤영호\TimerTimeTest\TimerTimeTest\obj\Debug\TimerTimeTest.pdb

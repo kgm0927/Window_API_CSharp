@@ -1,0 +1,35 @@
+    class CMyData
+    {
+        private int iCount;
+        private ArrayList Ar;
+
+          public int ICount
+        {
+            get { return iCount; }
+            set { iCount = value; }
+        }
+
+         public ArrayList AR
+        {
+            get { return Ar; }
+            set { Ar = value; }
+        }
+    }
+
+    class CPoints
+    {
+        public Point point;
+        private Color color;
+        private int size;
+
+        public Color Color
+        {
+            get { return color; }
+            set { color = value; }
+        }
+        public int Size
+        {
+            get { return size; }
+            set { size = value; }
+        }
+    }

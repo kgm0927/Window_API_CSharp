@@ -1,0 +1,25 @@
+C:\Users\Student\Desktop\First\bin\Debug\First.exe.config
+C:\Users\Student\Desktop\First\obj\Debug\First.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\First\obj\Debug\First.Form1.resources
+C:\Users\Student\Desktop\First\obj\Debug\First.Properties.Resources.resources
+C:\Users\Student\Desktop\First\obj\Debug\First.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\First\bin\Debug\First.exe
+C:\Users\Student\Desktop\First\bin\Debug\First.pdb
+C:\Users\Student\Desktop\First\obj\Debug\First.exe
+C:\Users\Student\Desktop\First\obj\Debug\First.pdb
+G:\3학년1학기\객체지향프로그래밍\1주차\First\bin\Debug\First.exe.config
+G:\3학년1학기\객체지향프로그래밍\1주차\First\obj\Debug\First.exe
+G:\3학년1학기\객체지향프로그래밍\1주차\First\obj\Debug\First.pdb
+C:\Users\Supervisor\Desktop\First\bin\Debug\First.exe.config
+C:\Users\Supervisor\Desktop\First\obj\Debug\First.exe
+C:\Users\Supervisor\Desktop\First\obj\Debug\First.pdb
+E:\객체지향윈도우즈프로그래밍 2주차\First\bin\Debug\First.exe.config
+E:\객체지향윈도우즈프로그래밍 2주차\First\bin\Debug\First.exe
+E:\객체지향윈도우즈프로그래밍 2주차\First\bin\Debug\First.pdb
+E:\객체지향윈도우즈프로그래밍 2주차\First\obj\Debug\First.csproj.AssemblyReference.cache
+E:\객체지향윈도우즈프로그래밍 2주차\First\obj\Debug\First.Form1.resources
+E:\객체지향윈도우즈프로그래밍 2주차\First\obj\Debug\First.Properties.Resources.resources
+E:\객체지향윈도우즈프로그래밍 2주차\First\obj\Debug\First.csproj.GenerateResource.cache
+E:\객체지향윈도우즈프로그래밍 2주차\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+E:\객체지향윈도우즈프로그래밍 2주차\First\obj\Debug\First.exe
+E:\객체지향윈도우즈프로그래밍 2주차\First\obj\Debug\First.pdb

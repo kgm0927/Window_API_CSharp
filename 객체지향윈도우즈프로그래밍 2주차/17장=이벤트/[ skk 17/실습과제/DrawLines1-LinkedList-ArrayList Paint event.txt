@@ -1,0 +1,30 @@
+	public partial class Form1 : Form
+	{
+     		private LinkedList<ArrayList> total_lines;
+        	private ArrayList ar;
+        	private int x, y;
+
+		public Form1()
+		{
+			total_lines = new LinkedList<ArrayList>();
+			InitializeComponent();
+		}
+
+
+
+.......................
+......................
+.....................
+
+		
+
+		private void Form1_Paint(object sender, PaintEventArgs e)
+		{
+			foreach (ArrayList line in total_lines)
+			{
+				for (int i = 1; i < line.Count; i++) 
+				{
+					e.Graphics.DrawLine(Pens.Black, (Point)line[i-1], (Point)line[i]);
+				}
+			}
+		}

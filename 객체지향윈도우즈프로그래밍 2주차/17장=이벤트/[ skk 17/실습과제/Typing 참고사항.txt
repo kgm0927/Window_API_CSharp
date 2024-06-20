@@ -1,0 +1,14 @@
+// 문자가 창 크기를 벗어나면 다음 문자 출력
+if (char_position.X > ClientRectangle.Width ||
+		char_position.Y > ClientRectangle.Height) //교재 p.569
+{
+	next_char();
+}
+
+
+
+
+Random random = new Random();
+//current_char = (char)random.Next('a', 'z' + 1); // cast error 나면
+current_char =Convert.ToChar(random.Next('a', 'z' + 1)); 
+direction = random.Next(0, 2);	// 0이 오른쪽 방향으로 증가, 1이 아래쪽 방향으로 증가

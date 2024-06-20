@@ -1,0 +1,8 @@
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\교재소스&나아의 실습-dotNetExam\17장=이벤트\MouseWheel\MouseWheel\bin\Debug\MouseWheel.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\교재소스&나아의 실습-dotNetExam\17장=이벤트\MouseWheel\MouseWheel\bin\Debug\MouseWheel.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\교재소스&나아의 실습-dotNetExam\17장=이벤트\MouseWheel\MouseWheel\obj\Debug\ResolveAssemblyReference.cache
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\교재소스&나아의 실습-dotNetExam\17장=이벤트\MouseWheel\MouseWheel\obj\Debug\MouseWheel.Form1.resources
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\교재소스&나아의 실습-dotNetExam\17장=이벤트\MouseWheel\MouseWheel\obj\Debug\MouseWheel.Properties.Resources.resources
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\교재소스&나아의 실습-dotNetExam\17장=이벤트\MouseWheel\MouseWheel\obj\Debug\MouseWheel.csproj.GenerateResource.Cache
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\교재소스&나아의 실습-dotNetExam\17장=이벤트\MouseWheel\MouseWheel\obj\Debug\MouseWheel.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형\교재소스&나아의 실습-dotNetExam\17장=이벤트\MouseWheel\MouseWheel\obj\Debug\MouseWheel.pdb

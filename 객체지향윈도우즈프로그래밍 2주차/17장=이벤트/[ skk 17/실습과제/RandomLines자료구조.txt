@@ -1,0 +1,25 @@
+     class CMyData
+    {
+        private Color color;
+        private int width;
+        private ArrayList Ar;
+        
+	public CMyData()  //생성자함수
+        {
+            Ar = new ArrayList();
+        }
+        public Color Color
+        {
+            get { return color; }
+            set { color = value; }
+        }
+        public int Width
+        {
+            get { return width; }
+            set { width = value; }
+        }
+        public ArrayList AR
+        {
+            get { return Ar; }
+        }
+    }
