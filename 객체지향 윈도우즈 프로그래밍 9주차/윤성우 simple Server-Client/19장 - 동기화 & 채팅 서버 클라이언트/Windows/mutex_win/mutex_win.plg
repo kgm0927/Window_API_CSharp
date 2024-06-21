@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: mutex_win - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP8CFB.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/mutex_win.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"D:\Skk Education\Study-Lang\Win32Network\TCPIP 소켓 프로그래밍-윤성우\소스코드-skktest\19\Windows\mutex_win\mutex_win.c"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP8CFB.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP8CFC.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/mutex_win.pdb" /debug /machine:I386 /out:"Debug/mutex_win.exe" /pdbtype:sept 
+".\Debug\mutex_win.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP8CFC.tmp"
+<h3>Output Window</h3>
+Compiling...
+mutex_win.c
+Linking...
+
+
+
+<h3>Results</h3>
+mutex_win.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

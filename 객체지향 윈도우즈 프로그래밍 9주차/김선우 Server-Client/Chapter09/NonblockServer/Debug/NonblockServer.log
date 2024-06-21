@@ -1,0 +1,6 @@
+﻿cl : 명령줄  warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  NonblockServer.cpp
+E:\객체지향 윈도우즈 프로그래밍 9주차\김선우 Server-Client\Chapter09\NonblockServer\NonblockServer.cpp(83,4): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\객체지향 윈도우즈 프로그래밍 9주차\김선우 Server-Client\Chapter09\NonblockServer\NonblockServer.cpp(113,4): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+NonblockServer.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  NonblockServer.vcxproj -> E:\객체지향 윈도우즈 프로그래밍 9주차\김선우 Server-Client\Chapter09\NonblockServer\Debug\NonblockServer.exe

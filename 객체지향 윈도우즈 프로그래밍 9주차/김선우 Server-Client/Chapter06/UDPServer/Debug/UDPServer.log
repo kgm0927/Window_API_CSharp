@@ -1,0 +1,5 @@
+﻿cl : 명령줄  warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  UDPServer.cpp
+E:\객체지향 윈도우즈 프로그래밍 9주차\김선우 Server-Client\Chapter06\UDPServer\UDPServer.cpp(76,30): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+UDPServer.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  UDPServer.vcxproj -> E:\객체지향 윈도우즈 프로그래밍 9주차\김선우 Server-Client\Chapter06\UDPServer\Debug\UDPServer.exe
