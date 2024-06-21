@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.exe.config
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.exe
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.pdb
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.Form1.resources
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.Properties.Resources.resources
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.exe
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.pdb

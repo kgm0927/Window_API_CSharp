@@ -1,0 +1,8 @@
+F:\객체지향 윈도우즈 프로그래밍 7주차\19장=이미지\[ skk 19\waConvert2Gray - 파일로 저장\Backup\bin\Debug\waConvert2Gray.exe.config
+F:\객체지향 윈도우즈 프로그래밍 7주차\19장=이미지\[ skk 19\waConvert2Gray - 파일로 저장\Backup\bin\Debug\waConvert2Gray.exe
+F:\객체지향 윈도우즈 프로그래밍 7주차\19장=이미지\[ skk 19\waConvert2Gray - 파일로 저장\Backup\bin\Debug\waConvert2Gray.pdb
+F:\객체지향 윈도우즈 프로그래밍 7주차\19장=이미지\[ skk 19\waConvert2Gray - 파일로 저장\Backup\obj\Debug\waConvert2Gray.csprojResolveAssemblyReference.cache
+F:\객체지향 윈도우즈 프로그래밍 7주차\19장=이미지\[ skk 19\waConvert2Gray - 파일로 저장\Backup\obj\Debug\waConvert2Gray.Form1.resources
+F:\객체지향 윈도우즈 프로그래밍 7주차\19장=이미지\[ skk 19\waConvert2Gray - 파일로 저장\Backup\obj\Debug\waConvert2Gray.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 프로그래밍 7주차\19장=이미지\[ skk 19\waConvert2Gray - 파일로 저장\Backup\obj\Debug\waConvert2Gray.exe
+F:\객체지향 윈도우즈 프로그래밍 7주차\19장=이미지\[ skk 19\waConvert2Gray - 파일로 저장\Backup\obj\Debug\waConvert2Gray.pdb

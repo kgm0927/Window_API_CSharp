@@ -1,0 +1,25 @@
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest\FileStreamTest\bin\Debug\FileStreamTest.exe
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest\FileStreamTest\bin\Debug\FileStreamTest.pdb
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.Form1.resources
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.Properties.Resources.resources
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.exe
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.pdb
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest - 복사본\FileStreamTest\obj\Debug\FileStreamTest.exe
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest - 복사본\FileStreamTest\obj\Debug\FileStreamTest.pdb
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest - 복사본\FileStreamTest\bin\Debug\FileStreamTest.exe
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest - 복사본\FileStreamTest\bin\Debug\FileStreamTest.pdb
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest - 복사본\FileStreamTest\obj\Debug\FileStreamTest.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest - 복사본\FileStreamTest\obj\Debug\FileStreamTest.Form1.resources
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest - 복사본\FileStreamTest\obj\Debug\FileStreamTest.Properties.Resources.resources
+C:\Users\student\Desktop\닷넷\26장=파일 입출력\FileStreamTest - 복사본\FileStreamTest\obj\Debug\FileStreamTest.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\FileStreamTestBinary\FileStreamTest\bin\Debug\FileStreamTest.exe.config
+C:\Users\Student\Desktop\FileStreamTestBinary\FileStreamTest\obj\Debug\FileStreamTest.exe
+C:\Users\Student\Desktop\FileStreamTestBinary\FileStreamTest\obj\Debug\FileStreamTest.pdb
+C:\Users\Student\Desktop\FileStreamTestBinary\FileStreamTest\bin\Debug\FileStreamTest.exe
+C:\Users\Student\Desktop\FileStreamTestBinary\FileStreamTest\bin\Debug\FileStreamTest.pdb
+C:\Users\Student\Desktop\FileStreamTestBinary\FileStreamTest\obj\Debug\FileStreamTest.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\FileStreamTestBinary\FileStreamTest\obj\Debug\FileStreamTest.Form1.resources
+C:\Users\Student\Desktop\FileStreamTestBinary\FileStreamTest\obj\Debug\FileStreamTest.Properties.Resources.resources
+C:\Users\Student\Desktop\FileStreamTestBinary\FileStreamTest\obj\Debug\FileStreamTest.csproj.GenerateResource.Cache

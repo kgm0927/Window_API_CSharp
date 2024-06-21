@@ -1,0 +1,47 @@
+C:\Users\Student.PC-25\Desktop\닷넷\C#_2\Dico\MDIForm\bin\Debug\MDIForm.exe
+C:\Users\Student.PC-25\Desktop\닷넷\C#_2\Dico\MDIForm\bin\Debug\MDIForm.pdb
+C:\Users\Student.PC-25\Desktop\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\MDIForm.Form1.resources
+C:\Users\Student.PC-25\Desktop\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\MDIForm.Properties.Resources.resources
+C:\Users\Student.PC-25\Desktop\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\MDIForm.csproj.GenerateResource.Cache
+C:\Users\Student.PC-25\Desktop\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\MDIForm.exe
+C:\Users\Student.PC-25\Desktop\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\MDIForm.pdb
+C:\Users\Student.PC-25\Desktop\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\MDIForm.Form2.resources
+D:\Univ\3학년 1학기 노트 필기\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\MDIForm.exe
+D:\Univ\3학년 1학기 노트 필기\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\MDIForm.pdb
+D:\Univ\3학년 1학기 노트 필기\닷넷\C#_2\Dico\MDIForm\bin\Debug\MDIForm.exe
+D:\Univ\3학년 1학기 노트 필기\닷넷\C#_2\Dico\MDIForm\bin\Debug\MDIForm.pdb
+D:\Univ\3학년 1학기 노트 필기\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Univ\3학년 1학기 노트 필기\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\MDIForm.Form1.resources
+D:\Univ\3학년 1학기 노트 필기\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\MDIForm.Form2.resources
+D:\Univ\3학년 1학기 노트 필기\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\MDIForm.Properties.Resources.resources
+D:\Univ\3학년 1학기 노트 필기\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Univ\3학년 1학기 노트 필기\닷넷\C#_2\Dico\MDIForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm\obj\x86\Debug\MDIForm.exe
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm\obj\x86\Debug\MDIForm.pdb
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm\bin\Debug\MDIForm.exe
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm\bin\Debug\MDIForm.pdb
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm\obj\x86\Debug\MDIForm.Form1.resources
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm\obj\x86\Debug\MDIForm.Form2.resources
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm\obj\x86\Debug\MDIForm.Form3.resources
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm\obj\x86\Debug\MDIForm.Properties.Resources.resources
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm\obj\x86\Debug\MDIForm.csproj.GenerateResource.Cache
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm_1\obj\x86\Debug\MDIForm.exe
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm_1\obj\x86\Debug\MDIForm.pdb
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm_1\bin\Debug\MDIForm.exe
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm_1\bin\Debug\MDIForm.pdb
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm_1\obj\x86\Debug\MDIForm.Form1.resources
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm_1\obj\x86\Debug\MDIForm.Form2.resources
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm_1\obj\x86\Debug\MDIForm.Form3.resources
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm_1\obj\x86\Debug\MDIForm.Properties.Resources.resources
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm_1\obj\x86\Debug\MDIForm.csproj.GenerateResource.Cache
+C:\Users\Student.PC-25\Desktop\닷넷\C#_3\Dico\MDIForm_1\obj\x86\Debug\MDIForm.csprojResolveAssemblyReference.cache
+C:\Users\Student.PC-25\Desktop\C#\19장=이미지\[ skk 19\Histogram\MDIForm_1 (2)\obj\x86\Debug\MDIForm.exe
+C:\Users\Student.PC-25\Desktop\C#\19장=이미지\[ skk 19\Histogram\MDIForm_1 (2)\obj\x86\Debug\MDIForm.pdb
+C:\Users\Student.PC-25\Desktop\C#\19장=이미지\[ skk 19\Histogram\MDIForm_1 (2)\bin\Debug\MDIForm.exe
+C:\Users\Student.PC-25\Desktop\C#\19장=이미지\[ skk 19\Histogram\MDIForm_1 (2)\bin\Debug\MDIForm.pdb
+C:\Users\Student.PC-25\Desktop\C#\19장=이미지\[ skk 19\Histogram\MDIForm_1 (2)\obj\x86\Debug\MDIForm.csprojResolveAssemblyReference.cache
+C:\Users\Student.PC-25\Desktop\C#\19장=이미지\[ skk 19\Histogram\MDIForm_1 (2)\obj\x86\Debug\MDIForm.Form1.resources
+C:\Users\Student.PC-25\Desktop\C#\19장=이미지\[ skk 19\Histogram\MDIForm_1 (2)\obj\x86\Debug\MDIForm.Form2.resources
+C:\Users\Student.PC-25\Desktop\C#\19장=이미지\[ skk 19\Histogram\MDIForm_1 (2)\obj\x86\Debug\MDIForm.Form3.resources
+C:\Users\Student.PC-25\Desktop\C#\19장=이미지\[ skk 19\Histogram\MDIForm_1 (2)\obj\x86\Debug\MDIForm.Properties.Resources.resources
+C:\Users\Student.PC-25\Desktop\C#\19장=이미지\[ skk 19\Histogram\MDIForm_1 (2)\obj\x86\Debug\MDIForm.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력\bin\Debug\DrawLines.exe
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력\bin\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력\obj\Debug\DrawLines.Form1.resources
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력\obj\Debug\DrawLines.Form2.resources
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력\obj\Debug\DrawLines.exe
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력\obj\Debug\DrawLines.pdb

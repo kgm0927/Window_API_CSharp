@@ -1,0 +1,72 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: skkDib - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x412 /fo"Debug/skkDib.res" /d "_DEBUG" /d "_AFXDLL" "D:\Skk Education\Study-Lang\VC++\±è¿ë¼º-1ÇÐ±â\Exam-n-Report\06\2006-06-16\skkDib-Morph\skkDib.rc"" 
+Creating temporary file "C:\Users\yimoogi\AppData\Local\Temp\RSP8B95.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_AFXDLL" /Fp"Debug/skkDib.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Skk Education\Study-Lang\VC++\±è¿ë¼º-1ÇÐ±â\Exam-n-Report\06\2006-06-16\skkDib-Morph\ChildFrm.cpp"
+"D:\Skk Education\Study-Lang\VC++\±è¿ë¼º-1ÇÐ±â\Exam-n-Report\06\2006-06-16\skkDib-Morph\Image.cpp"
+"D:\Skk Education\Study-Lang\VC++\±è¿ë¼º-1ÇÐ±â\Exam-n-Report\06\2006-06-16\skkDib-Morph\ImageFileBmp.cpp"
+"D:\Skk Education\Study-Lang\VC++\±è¿ë¼º-1ÇÐ±â\Exam-n-Report\06\2006-06-16\skkDib-Morph\ImageMorphology.cpp"
+"D:\Skk Education\Study-Lang\VC++\±è¿ë¼º-1ÇÐ±â\Exam-n-Report\06\2006-06-16\skkDib-Morph\ImagePixel.cpp"
+"D:\Skk Education\Study-Lang\VC++\±è¿ë¼º-1ÇÐ±â\Exam-n-Report\06\2006-06-16\skkDib-Morph\MainFrm.cpp"
+"D:\Skk Education\Study-Lang\VC++\±è¿ë¼º-1ÇÐ±â\Exam-n-Report\06\2006-06-16\skkDib-Morph\ProgressBar.cpp"
+"D:\Skk Education\Study-Lang\VC++\±è¿ë¼º-1ÇÐ±â\Exam-n-Report\06\2006-06-16\skkDib-Morph\skkDib.cpp"
+"D:\Skk Education\Study-Lang\VC++\±è¿ë¼º-1ÇÐ±â\Exam-n-Report\06\2006-06-16\skkDib-Morph\skkDibDoc.cpp"
+"D:\Skk Education\Study-Lang\VC++\±è¿ë¼º-1ÇÐ±â\Exam-n-Report\06\2006-06-16\skkDib-Morph\skkDibView.cpp"
+]
+Creating command line "cl.exe @C:\Users\yimoogi\AppData\Local\Temp\RSP8B95.tmp" 
+Creating temporary file "C:\Users\yimoogi\AppData\Local\Temp\RSP8B96.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_AFXDLL" /Fp"Debug/skkDib.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Skk Education\Study-Lang\VC++\±è¿ë¼º-1ÇÐ±â\Exam-n-Report\06\2006-06-16\skkDib-Morph\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\yimoogi\AppData\Local\Temp\RSP8B96.tmp" 
+Creating temporary file "C:\Users\yimoogi\AppData\Local\Temp\RSP8B97.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/skkDib.pdb" /debug /machine:I386 /out:"Debug/skkDib.exe" /pdbtype:sept 
+".\Debug\ChildFrm.obj"
+".\Debug\Image.obj"
+".\Debug\ImageFileBmp.obj"
+".\Debug\ImageMorphology.obj"
+".\Debug\ImagePixel.obj"
+".\Debug\MainFrm.obj"
+".\Debug\ProgressBar.obj"
+".\Debug\skkDib.obj"
+".\Debug\skkDibDoc.obj"
+".\Debug\skkDibView.obj"
+".\Debug\StdAfx.obj"
+".\Debug\skkDib.res"
+]
+Creating command line "link.exe @C:\Users\yimoogi\AppData\Local\Temp\RSP8B97.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+ChildFrm.cpp
+Image.cpp
+ImageFileBmp.cpp
+ImageMorphology.cpp
+ImagePixel.cpp
+MainFrm.cpp
+ProgressBar.cpp
+skkDib.cpp
+skkDibDoc.cpp
+skkDibView.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+skkDib.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

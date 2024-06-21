@@ -1,0 +1,23 @@
+C:\SkkEducation\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ 실습과제들\영상처리\ImageProcess-3\bin\Debug\ImageProcess.exe.config
+C:\SkkEducation\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ 실습과제들\영상처리\ImageProcess-3\bin\Debug\ImageProcess.exe
+C:\SkkEducation\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ 실습과제들\영상처리\ImageProcess-3\bin\Debug\ImageProcess.pdb
+C:\SkkEducation\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ 실습과제들\영상처리\ImageProcess-3\obj\Debug\ImageProcess.csprojResolveAssemblyReference.cache
+C:\SkkEducation\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ 실습과제들\영상처리\ImageProcess-3\obj\Debug\ImageProcess.Form1.resources
+C:\SkkEducation\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ 실습과제들\영상처리\ImageProcess-3\obj\Debug\ImageProcess.Form2.resources
+C:\SkkEducation\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ 실습과제들\영상처리\ImageProcess-3\obj\Debug\ImageProcess.Properties.Resources.resources
+C:\SkkEducation\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ 실습과제들\영상처리\ImageProcess-3\obj\Debug\ImageProcess.csproj.GenerateResource.Cache
+C:\SkkEducation\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ 실습과제들\영상처리\ImageProcess-3\obj\Debug\ImageProcess.exe
+C:\SkkEducation\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ 실습과제들\영상처리\ImageProcess-3\obj\Debug\ImageProcess.pdb
+C:\Users\Student\Desktop\ImageProcess-3\bin\Debug\ImageProcess.exe.config
+C:\Users\Student\Desktop\ImageProcess-3\obj\Debug\ImageProcess.exe
+C:\Users\Student\Desktop\ImageProcess-3\obj\Debug\ImageProcess.pdb
+C:\Users\Student\Desktop\ImageProcess-3\bin\Debug\ImageProcess.exe
+C:\Users\Student\Desktop\ImageProcess-3\bin\Debug\ImageProcess.pdb
+C:\Users\Student\Desktop\ImageProcess-3\obj\Debug\ImageProcess.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\ImageProcess-3\obj\Debug\ImageProcess.Form1.resources
+C:\Users\Student\Desktop\ImageProcess-3\obj\Debug\ImageProcess.Form2.resources
+C:\Users\Student\Desktop\ImageProcess-3\obj\Debug\ImageProcess.Properties.Resources.resources
+C:\Users\Student\Desktop\ImageProcess-3\obj\Debug\ImageProcess.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 프로그래밍 7주차\ImageProcess-3\bin\Debug\ImageProcess.exe.config
+F:\객체지향 윈도우즈 프로그래밍 7주차\ImageProcess-3\obj\Debug\ImageProcess.exe
+F:\객체지향 윈도우즈 프로그래밍 7주차\ImageProcess-3\obj\Debug\ImageProcess.pdb

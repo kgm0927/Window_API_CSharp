@@ -1,0 +1,20 @@
+C:\Users\Student\Desktop\MDIForm\MDIForm\bin\Debug\MDIForm.exe.config
+C:\Users\Student\Desktop\MDIForm\MDIForm\bin\Debug\MDIForm.exe
+C:\Users\Student\Desktop\MDIForm\MDIForm\bin\Debug\MDIForm.pdb
+C:\Users\Student\Desktop\MDIForm\MDIForm\obj\Debug\MDIForm.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\MDIForm\MDIForm\obj\Debug\MDIForm.Form1.resources
+C:\Users\Student\Desktop\MDIForm\MDIForm\obj\Debug\MDIForm.Form2.resources
+C:\Users\Student\Desktop\MDIForm\MDIForm\obj\Debug\MDIForm.Properties.Resources.resources
+C:\Users\Student\Desktop\MDIForm\MDIForm\obj\Debug\MDIForm.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\MDIForm\MDIForm\obj\Debug\MDIForm.exe
+C:\Users\Student\Desktop\MDIForm\MDIForm\obj\Debug\MDIForm.pdb
+F:\객체지향 윈도우즈 프로그래밍 7주차\MDIForm\MDIForm\bin\Debug\MDIForm.exe.config
+F:\객체지향 윈도우즈 프로그래밍 7주차\MDIForm\MDIForm\obj\Debug\MDIForm.exe
+F:\객체지향 윈도우즈 프로그래밍 7주차\MDIForm\MDIForm\obj\Debug\MDIForm.pdb
+F:\객체지향 윈도우즈 프로그래밍 7주차\MDIForm\MDIForm\bin\Debug\MDIForm.exe
+F:\객체지향 윈도우즈 프로그래밍 7주차\MDIForm\MDIForm\bin\Debug\MDIForm.pdb
+F:\객체지향 윈도우즈 프로그래밍 7주차\MDIForm\MDIForm\obj\Debug\MDIForm.csprojResolveAssemblyReference.cache
+F:\객체지향 윈도우즈 프로그래밍 7주차\MDIForm\MDIForm\obj\Debug\MDIForm.Form1.resources
+F:\객체지향 윈도우즈 프로그래밍 7주차\MDIForm\MDIForm\obj\Debug\MDIForm.Form2.resources
+F:\객체지향 윈도우즈 프로그래밍 7주차\MDIForm\MDIForm\obj\Debug\MDIForm.Properties.Resources.resources
+F:\객체지향 윈도우즈 프로그래밍 7주차\MDIForm\MDIForm\obj\Debug\MDIForm.csproj.GenerateResource.Cache

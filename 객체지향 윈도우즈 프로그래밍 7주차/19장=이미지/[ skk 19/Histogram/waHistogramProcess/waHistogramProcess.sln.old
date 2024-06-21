@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "waHistogramProcess", "waHistogramProcess.csproj", "{3CCA470E-B6D5-49CC-A358-2858FE8C5851}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3CCA470E-B6D5-49CC-A358-2858FE8C5851}.Debug.ActiveCfg = Debug|.NET
+		{3CCA470E-B6D5-49CC-A358-2858FE8C5851}.Debug.Build.0 = Debug|.NET
+		{3CCA470E-B6D5-49CC-A358-2858FE8C5851}.Release.ActiveCfg = Release|.NET
+		{3CCA470E-B6D5-49CC-A358-2858FE8C5851}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

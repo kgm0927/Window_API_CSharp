@@ -1,0 +1,10 @@
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 교재소스&나아의 실습-dotNetExam\19장=이미지\[ skk 19\waColorBright\obj\Debug\waColorBright.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 교재소스&나아의 실습-dotNetExam\19장=이미지\[ skk 19\waColorBright\obj\Debug\waColorBright.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 교재소스&나아의 실습-dotNetExam\19장=이미지\[ skk 19\waColorBright\bin\Debug\waColorBright.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 교재소스&나아의 실습-dotNetExam\19장=이미지\[ skk 19\waColorBright\bin\Debug\waColorBright.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 교재소스&나아의 실습-dotNetExam\19장=이미지\[ skk 19\waColorBright\obj\Debug\ResolveAssemblyReference.cache
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 교재소스&나아의 실습-dotNetExam\19장=이미지\[ skk 19\waColorBright\obj\Debug\waColorBright.Form1.resources
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 교재소스&나아의 실습-dotNetExam\19장=이미지\[ skk 19\waColorBright\obj\Debug\waColorBright.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 프로그래밍 7주차\19장=이미지\[ skk 19\waColorBright\bin\Debug\waColorBright.exe.config
+F:\객체지향 윈도우즈 프로그래밍 7주차\19장=이미지\[ skk 19\waColorBright\obj\Debug\waColorBright.exe
+F:\객체지향 윈도우즈 프로그래밍 7주차\19장=이미지\[ skk 19\waColorBright\obj\Debug\waColorBright.pdb
