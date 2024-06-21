@@ -1,0 +1,22 @@
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\bin\Debug\DrawLines.exe
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\bin\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.Form1.resources
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.Form2.resources
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.exe
+C:\Users\Student\Desktop\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.pdb
+E:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\bin\Debug\DrawLines.exe.config
+E:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.exe
+E:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.pdb
+E:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\bin\Debug\DrawLines.exe
+E:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\bin\Debug\DrawLines.pdb
+E:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.Form1.resources
+E:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.Form2.resources
+E:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.Properties.Resources.resources
+E:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\bin\Debug\DrawLines.exe.config
+F:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.exe
+F:\객체지향 윈도우즈 프로그래밍 6주차\5-DrawLines-파일 입출력-DoubleClick 파일선택 오류해결노오력\obj\Debug\DrawLines.pdb

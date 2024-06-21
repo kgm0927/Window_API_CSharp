@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "waConvert2Gray", "waConvert2Gray.csproj", "{DDEDF084-0169-4F51-AA9F-FAE94FAA9B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DDEDF084-0169-4F51-AA9F-FAE94FAA9B07}.Debug.ActiveCfg = Debug|.NET
+		{DDEDF084-0169-4F51-AA9F-FAE94FAA9B07}.Debug.Build.0 = Debug|.NET
+		{DDEDF084-0169-4F51-AA9F-FAE94FAA9B07}.Release.ActiveCfg = Release|.NET
+		{DDEDF084-0169-4F51-AA9F-FAE94FAA9B07}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

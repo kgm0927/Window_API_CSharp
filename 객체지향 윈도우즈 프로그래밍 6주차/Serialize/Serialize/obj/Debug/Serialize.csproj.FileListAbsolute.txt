@@ -1,0 +1,21 @@
+C:\Users\Student\Desktop\Serialize\Serialize\bin\Debug\Serialize.exe.config
+C:\Users\Student\Desktop\Serialize\Serialize\bin\Debug\Serialize.exe
+C:\Users\Student\Desktop\Serialize\Serialize\bin\Debug\Serialize.pdb
+C:\Users\Student\Desktop\Serialize\Serialize\obj\Debug\Serialize.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Serialize\Serialize\obj\Debug\Serialize.Form1.resources
+C:\Users\Student\Desktop\Serialize\Serialize\obj\Debug\Serialize.Properties.Resources.resources
+C:\Users\Student\Desktop\Serialize\Serialize\obj\Debug\Serialize.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Serialize\Serialize\obj\Debug\Serialize.exe
+C:\Users\Student\Desktop\Serialize\Serialize\obj\Debug\Serialize.pdb
+E:\객체지향 윈도우즈 프로그래밍 6주차\Serialize\Serialize\bin\Debug\Serialize.exe.config
+E:\객체지향 윈도우즈 프로그래밍 6주차\Serialize\Serialize\obj\Debug\Serialize.exe
+E:\객체지향 윈도우즈 프로그래밍 6주차\Serialize\Serialize\obj\Debug\Serialize.pdb
+E:\객체지향 윈도우즈 프로그래밍 6주차\Serialize\Serialize\bin\Debug\Serialize.exe
+E:\객체지향 윈도우즈 프로그래밍 6주차\Serialize\Serialize\bin\Debug\Serialize.pdb
+E:\객체지향 윈도우즈 프로그래밍 6주차\Serialize\Serialize\obj\Debug\Serialize.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 프로그래밍 6주차\Serialize\Serialize\obj\Debug\Serialize.Form1.resources
+E:\객체지향 윈도우즈 프로그래밍 6주차\Serialize\Serialize\obj\Debug\Serialize.Properties.Resources.resources
+E:\객체지향 윈도우즈 프로그래밍 6주차\Serialize\Serialize\obj\Debug\Serialize.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 프로그래밍 6주차\Serialize\Serialize\bin\Debug\Serialize.exe.config
+F:\객체지향 윈도우즈 프로그래밍 6주차\Serialize\Serialize\obj\Debug\Serialize.exe
+F:\객체지향 윈도우즈 프로그래밍 6주차\Serialize\Serialize\obj\Debug\Serialize.pdb

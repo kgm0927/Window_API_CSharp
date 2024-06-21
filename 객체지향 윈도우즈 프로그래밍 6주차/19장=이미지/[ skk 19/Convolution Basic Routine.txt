@@ -1,0 +1,27 @@
+            
+
+	    // 흑백 영상으로 바꾸고
+	    Bitmap Edge = new Bitmap(gBitmap);
+            int[,] m = { { -1, 0, 1 }, { -2, 0, 2 }, { -1, 0, 1 } };
+            int sum;
+            for (x = 1; x < gBitmap.Width - 1; x++)
+            {
+                for (y = 1; y < gBitmap.Height - 1; y++)
+                {
+                    sum = 0;
+                    for (int r = -1; r < 2; r++)
+                    {
+                        for (int c = -1; c < 2; c++)
+                        {
+
+                            sum += m[r + 1, c + 1] * gBitmap.GetPixel(x + r, y + c).R; 
+
+                        }
+                     }
+		     sum = Math.Abs(sum);
+                     if (sum > 255) sum = 255;
+                     if (sum < 0) sum = 0;
+                     Edge.SetPixel(x, y, Color.FromArgb(sum, sum, sum)); 
+                }
+             
+            }

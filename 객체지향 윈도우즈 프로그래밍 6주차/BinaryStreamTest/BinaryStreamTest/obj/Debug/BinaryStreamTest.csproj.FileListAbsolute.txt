@@ -1,0 +1,21 @@
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.exe.config
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.exe
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.pdb
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.Form1.resources
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.Properties.Resources.resources
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.exe
+C:\Users\Student\Desktop\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.pdb
+E:\객체지향 윈도우즈 프로그래밍 6주차\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.exe.config
+E:\객체지향 윈도우즈 프로그래밍 6주차\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.exe
+E:\객체지향 윈도우즈 프로그래밍 6주차\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.pdb
+E:\객체지향 윈도우즈 프로그래밍 6주차\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.exe
+E:\객체지향 윈도우즈 프로그래밍 6주차\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.pdb
+E:\객체지향 윈도우즈 프로그래밍 6주차\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 프로그래밍 6주차\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.Form1.resources
+E:\객체지향 윈도우즈 프로그래밍 6주차\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.Properties.Resources.resources
+E:\객체지향 윈도우즈 프로그래밍 6주차\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 프로그래밍 6주차\BinaryStreamTest\BinaryStreamTest\bin\Debug\BinaryStreamTest.exe.config
+F:\객체지향 윈도우즈 프로그래밍 6주차\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.exe
+F:\객체지향 윈도우즈 프로그래밍 6주차\BinaryStreamTest\BinaryStreamTest\obj\Debug\BinaryStreamTest.pdb

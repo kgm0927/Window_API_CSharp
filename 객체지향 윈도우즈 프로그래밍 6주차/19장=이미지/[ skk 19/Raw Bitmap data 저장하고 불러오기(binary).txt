@@ -1,0 +1,48 @@
+		private void saveBinaryRaw(... )
+		{
+			FileStream fileStream = new FileStream(fileName, FileMode.Create, FileAccess.Write);
+			BinaryWriter binWr = new BinaryWriter(fileStream);
+
+			binWr.Write(bitmap.Width);
+			binWr.Write(bitmap.Height);
+			for(int i = 0; i < bitmap.Height; i++) {
+				for(int j = 0; j < bitmap.Width; j++) {
+					Color color = bitmap.GetPixel(j, i);
+
+					binWr.Write(color.R);
+					binWr.Write(color.G);
+					binWr.Write(color.B);
+				}
+			}
+
+			fileStream.Flush();
+			fileStream.Close();
+		}
+
+
+
+		private loadBinaryRaw(...)
+		{
+			FileStream fileStream = new FileStream(fileName, FileMode.Open, FileAccess.Read);
+			BinaryReader binRd = new BinaryReader(fileStream);
+
+			int width = binRd.ReadInt32();
+			int height = binRd.ReadInt32();
+			
+			Bitmap bitmap = new Bitmap(width, height);
+
+			for(int i = 0; i < height; i++) {
+				for (int j = 0; j < width; j++)
+				{
+					byte r = binRd.ReadByte();
+					byte g = binRd.ReadByte();
+					byte b = binRd.ReadByte();
+
+					bitmap.SetPixel(j, i, Color.FromArgb(a, r, g, b));
+				}
+			}
+
+			fileStream.Close();
+			....
+		}
+	
