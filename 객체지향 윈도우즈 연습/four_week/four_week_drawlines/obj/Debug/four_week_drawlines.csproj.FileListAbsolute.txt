@@ -1,0 +1,19 @@
+C:\Users\kgm09\source\repos\four_week\four_week_drawlines\bin\Debug\four_week_drawlines.exe.config
+C:\Users\kgm09\source\repos\four_week\four_week_drawlines\bin\Debug\four_week_drawlines.exe
+C:\Users\kgm09\source\repos\four_week\four_week_drawlines\bin\Debug\four_week_drawlines.pdb
+C:\Users\kgm09\source\repos\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.csproj.AssemblyReference.cache
+C:\Users\kgm09\source\repos\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.Form1.resources
+C:\Users\kgm09\source\repos\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.Properties.Resources.resources
+C:\Users\kgm09\source\repos\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.csproj.GenerateResource.cache
+C:\Users\kgm09\source\repos\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.csproj.CoreCompileInputs.cache
+C:\Users\kgm09\source\repos\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.exe
+C:\Users\kgm09\source\repos\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.pdb
+F:\객체지향 윈도우즈 연습\four_week\four_week_drawlines\bin\Debug\four_week_drawlines.exe.config
+F:\객체지향 윈도우즈 연습\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.exe
+F:\객체지향 윈도우즈 연습\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.pdb
+F:\객체지향 윈도우즈 연습\four_week\four_week_drawlines\bin\Debug\four_week_drawlines.exe
+F:\객체지향 윈도우즈 연습\four_week\four_week_drawlines\bin\Debug\four_week_drawlines.pdb
+F:\객체지향 윈도우즈 연습\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.csprojResolveAssemblyReference.cache
+F:\객체지향 윈도우즈 연습\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.Form1.resources
+F:\객체지향 윈도우즈 연습\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.Properties.Resources.resources
+F:\객체지향 윈도우즈 연습\four_week\four_week_drawlines\obj\Debug\four_week_drawlines.csproj.GenerateResource.Cache

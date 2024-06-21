@@ -1,0 +1,15 @@
+c:\users\student\documents\visual studio 2013\Projects\socketEx\socketEx\bin\Debug\socketEx.exe.config
+c:\users\student\documents\visual studio 2013\Projects\socketEx\socketEx\bin\Debug\socketEx.exe
+c:\users\student\documents\visual studio 2013\Projects\socketEx\socketEx\bin\Debug\socketEx.pdb
+c:\users\student\documents\visual studio 2013\Projects\socketEx\socketEx\obj\Debug\socketEx.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\socketEx\socketEx\obj\Debug\socketEx.exe
+c:\users\student\documents\visual studio 2013\Projects\socketEx\socketEx\obj\Debug\socketEx.pdb
+C:\Users\Student\Desktop\thirteenth weeks\socketEx\socketEx\bin\Debug\socketEx.exe.config
+C:\Users\Student\Desktop\thirteenth weeks\socketEx\socketEx\obj\Debug\socketEx.exe
+C:\Users\Student\Desktop\thirteenth weeks\socketEx\socketEx\obj\Debug\socketEx.pdb
+C:\Users\Student\Desktop\thirteenth weeks\socketEx\socketEx\bin\Debug\socketEx.exe
+C:\Users\Student\Desktop\thirteenth weeks\socketEx\socketEx\bin\Debug\socketEx.pdb
+C:\Users\Student\Desktop\thirteenth weeks\socketEx\socketEx\obj\Debug\socketEx.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 연습\thirteenth weeks\socketEx\socketEx\bin\Debug\socketEx.exe.config
+E:\객체지향 윈도우즈 연습\thirteenth weeks\socketEx\socketEx\obj\Debug\socketEx.exe
+E:\객체지향 윈도우즈 연습\thirteenth weeks\socketEx\socketEx\obj\Debug\socketEx.pdb

@@ -1,0 +1,11 @@
+c:\users\student\documents\visual studio 2013\Projects\Drawline_and_network\Drawline_and_network\bin\Debug\Drawline_and_network.exe.config
+E:\객체지향 윈도우즈 연습\forthteen_week\Drawline_and_network\Drawline_and_network\bin\Debug\Drawline_and_network.exe.config
+E:\객체지향 윈도우즈 연습\forthteen_week\Drawline_and_network\Drawline_and_network\bin\Debug\Drawline_and_network.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\Drawline_and_network\Drawline_and_network\bin\Debug\Drawline_and_network.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\Drawline_and_network\Drawline_and_network\obj\Debug\Drawline_and_network.Form2.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\Drawline_and_network\Drawline_and_network\obj\Debug\Drawline_and_network.Properties.Resources.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\Drawline_and_network\Drawline_and_network\obj\Debug\Drawline_and_network.csproj.GenerateResource.Cache
+E:\객체지향 윈도우즈 연습\forthteen_week\Drawline_and_network\Drawline_and_network\obj\Debug\Drawline_and_network.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\Drawline_and_network\Drawline_and_network\obj\Debug\Drawline_and_network.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\Drawline_and_network\Drawline_and_network\obj\Debug\Drawline_and_network.Form1.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\Drawline_and_network\Drawline_and_network\obj\Debug\Drawline_and_network.csprojResolveAssemblyReference.cache

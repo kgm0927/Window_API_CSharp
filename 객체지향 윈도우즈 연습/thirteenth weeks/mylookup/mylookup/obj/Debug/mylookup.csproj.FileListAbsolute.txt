@@ -1,0 +1,12 @@
+c:\Users\Student\documents\visual studio 2013\Projects\mylookup\mylookup\bin\Debug\mylookup.exe.config
+c:\Users\Student\documents\visual studio 2013\Projects\mylookup\mylookup\bin\Debug\mylookup.exe
+c:\Users\Student\documents\visual studio 2013\Projects\mylookup\mylookup\bin\Debug\mylookup.pdb
+c:\Users\Student\documents\visual studio 2013\Projects\mylookup\mylookup\obj\Debug\mylookup.csprojResolveAssemblyReference.cache
+c:\Users\Student\documents\visual studio 2013\Projects\mylookup\mylookup\obj\Debug\mylookup.exe
+c:\Users\Student\documents\visual studio 2013\Projects\mylookup\mylookup\obj\Debug\mylookup.pdb
+C:\Users\Student\Desktop\thirteenth weeks\mylookup\mylookup\bin\Debug\mylookup.exe.config
+C:\Users\Student\Desktop\thirteenth weeks\mylookup\mylookup\obj\Debug\mylookup.exe
+C:\Users\Student\Desktop\thirteenth weeks\mylookup\mylookup\obj\Debug\mylookup.pdb
+E:\객체지향 윈도우즈 연습\thirteenth weeks\mylookup\mylookup\bin\Debug\mylookup.exe.config
+E:\객체지향 윈도우즈 연습\thirteenth weeks\mylookup\mylookup\obj\Debug\mylookup.exe
+E:\객체지향 윈도우즈 연습\thirteenth weeks\mylookup\mylookup\obj\Debug\mylookup.pdb

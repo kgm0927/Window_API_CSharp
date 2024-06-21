@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawine_just_dlg\bin\Debug\Drawine_just_dlg.exe.config
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawine_just_dlg\bin\Debug\Drawine_just_dlg.exe
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawine_just_dlg\bin\Debug\Drawine_just_dlg.pdb
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawine_just_dlg\obj\Debug\Drawine_just_dlg.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawine_just_dlg\obj\Debug\Drawine_just_dlg.Form1.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawine_just_dlg\obj\Debug\Drawine_just_dlg.Form2.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawine_just_dlg\obj\Debug\Drawine_just_dlg.Properties.Resources.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawine_just_dlg\obj\Debug\Drawine_just_dlg.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawine_just_dlg\obj\Debug\Drawine_just_dlg.exe
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawine_just_dlg\obj\Debug\Drawine_just_dlg.pdb

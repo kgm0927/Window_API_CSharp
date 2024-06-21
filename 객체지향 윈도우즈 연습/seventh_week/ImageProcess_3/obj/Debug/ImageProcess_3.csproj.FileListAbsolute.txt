@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess_3\bin\Debug\ImageProcess_3.exe.config
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess_3\bin\Debug\ImageProcess_3.exe
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess_3\bin\Debug\ImageProcess_3.pdb
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess_3\obj\Debug\ImageProcess_3.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess_3\obj\Debug\ImageProcess_3.Form1.resources
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess_3\obj\Debug\ImageProcess_3.Properties.Resources.resources
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess_3\obj\Debug\ImageProcess_3.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess_3\obj\Debug\ImageProcess_3.exe
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess_3\obj\Debug\ImageProcess_3.pdb
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess_3\obj\Debug\ImageProcess_3.Form2.resources

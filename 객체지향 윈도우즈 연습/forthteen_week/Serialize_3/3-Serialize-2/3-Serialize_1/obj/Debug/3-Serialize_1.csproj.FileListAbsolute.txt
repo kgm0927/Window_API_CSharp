@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\week14\3-Serialize-2\3-Serialize_1\bin\Debug\3-Serialize_1.exe.config
+E:\객체지향 윈도우즈 연습\forthteen_week\3-Serialize-2\3-Serialize_1\bin\Debug\3-Serialize_1.exe.config
+E:\객체지향 윈도우즈 연습\forthteen_week\3-Serialize-2\3-Serialize_1\bin\Debug\3-Serialize_1.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\3-Serialize-2\3-Serialize_1\bin\Debug\3-Serialize_1.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\3-Serialize-2\3-Serialize_1\obj\Debug\3-Serialize_1.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 연습\forthteen_week\3-Serialize-2\3-Serialize_1\obj\Debug\_3_Serialize_1.Form1.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\3-Serialize-2\3-Serialize_1\obj\Debug\_3_Serialize_1.Properties.Resources.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\3-Serialize-2\3-Serialize_1\obj\Debug\3-Serialize_1.csproj.GenerateResource.Cache
+E:\객체지향 윈도우즈 연습\forthteen_week\3-Serialize-2\3-Serialize_1\obj\Debug\3-Serialize_1.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\3-Serialize-2\3-Serialize_1\obj\Debug\3-Serialize_1.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize_3\3-Serialize-2\3-Serialize_1\bin\Debug\3-Serialize_1.exe.config
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize_3\3-Serialize-2\3-Serialize_1\obj\Debug\3-Serialize_1.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize_3\3-Serialize-2\3-Serialize_1\obj\Debug\3-Serialize_1.pdb

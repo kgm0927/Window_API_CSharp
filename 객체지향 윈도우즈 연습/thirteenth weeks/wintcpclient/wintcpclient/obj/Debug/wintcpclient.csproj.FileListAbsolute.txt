@@ -1,0 +1,15 @@
+c:\users\student\documents\visual studio 2013\Projects\wintcpclient\wintcpclient\bin\Debug\wintcpclient.exe.config
+c:\users\student\documents\visual studio 2013\Projects\wintcpclient\wintcpclient\bin\Debug\wintcpclient.exe
+c:\users\student\documents\visual studio 2013\Projects\wintcpclient\wintcpclient\bin\Debug\wintcpclient.pdb
+c:\users\student\documents\visual studio 2013\Projects\wintcpclient\wintcpclient\obj\Debug\wintcpclient.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\wintcpclient\wintcpclient\obj\Debug\wintcpclient.exe
+c:\users\student\documents\visual studio 2013\Projects\wintcpclient\wintcpclient\obj\Debug\wintcpclient.pdb
+C:\Users\Student\Desktop\thirteenth weeks\wintcpclient\wintcpclient\bin\Debug\wintcpclient.exe.config
+C:\Users\Student\Desktop\thirteenth weeks\wintcpclient\wintcpclient\obj\Debug\wintcpclient.exe
+C:\Users\Student\Desktop\thirteenth weeks\wintcpclient\wintcpclient\obj\Debug\wintcpclient.pdb
+C:\Users\Student\Desktop\thirteenth weeks\wintcpclient\wintcpclient\bin\Debug\wintcpclient.exe
+C:\Users\Student\Desktop\thirteenth weeks\wintcpclient\wintcpclient\bin\Debug\wintcpclient.pdb
+C:\Users\Student\Desktop\thirteenth weeks\wintcpclient\wintcpclient\obj\Debug\wintcpclient.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 연습\thirteenth weeks\wintcpclient\wintcpclient\bin\Debug\wintcpclient.exe.config
+E:\객체지향 윈도우즈 연습\thirteenth weeks\wintcpclient\wintcpclient\obj\Debug\wintcpclient.exe
+E:\객체지향 윈도우즈 연습\thirteenth weeks\wintcpclient\wintcpclient\obj\Debug\wintcpclient.pdb

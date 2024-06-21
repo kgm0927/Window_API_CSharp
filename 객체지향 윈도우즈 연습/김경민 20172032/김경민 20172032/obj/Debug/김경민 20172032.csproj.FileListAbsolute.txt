@@ -1,0 +1,37 @@
+C:\Users\Student\Desktop\wkke1\김경민 20172032\김경민 20172032\bin\Debug\김경민 20172032.exe.config
+C:\Users\Student\Desktop\wkke1\김경민 20172032\김경민 20172032\bin\Debug\김경민 20172032.exe
+C:\Users\Student\Desktop\wkke1\김경민 20172032\김경민 20172032\bin\Debug\김경민 20172032.pdb
+C:\Users\Student\Desktop\wkke1\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\wkke1\김경민 20172032\김경민 20172032\obj\Debug\김경민_20172032.Form1.resources
+C:\Users\Student\Desktop\wkke1\김경민 20172032\김경민 20172032\obj\Debug\김경민_20172032.Form2.resources
+C:\Users\Student\Desktop\wkke1\김경민 20172032\김경민 20172032\obj\Debug\김경민_20172032.Form3.resources
+C:\Users\Student\Desktop\wkke1\김경민 20172032\김경민 20172032\obj\Debug\김경민_20172032.Properties.Resources.resources
+C:\Users\Student\Desktop\wkke1\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\wkke1\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.exe
+C:\Users\Student\Desktop\wkke1\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.pdb
+E:\김경민 20172032\김경민 20172032\bin\Debug\김경민 20172032.exe.config
+E:\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.exe
+E:\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.pdb
+E:\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.csprojResolveAssemblyReference.cache
+E:\김경민 20172032\김경민 20172032\obj\Debug\김경민_20172032.Form1.resources
+E:\김경민 20172032\김경민 20172032\obj\Debug\김경민_20172032.Form2.resources
+E:\김경민 20172032\김경민 20172032\obj\Debug\김경민_20172032.Form3.resources
+E:\김경민 20172032\김경민 20172032\obj\Debug\김경민_20172032.Properties.Resources.resources
+E:\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.csproj.GenerateResource.Cache
+E:\김경민 20172032\김경민 20172032\bin\Debug\김경민 20172032.exe
+E:\김경민 20172032\김경민 20172032\bin\Debug\김경민 20172032.pdb
+D:\김경민 20172032\김경민 20172032\bin\Debug\김경민 20172032.exe.config
+D:\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.exe
+D:\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.pdb
+D:\김경민 20172032\김경민 20172032\bin\Debug\김경민 20172032.exe
+D:\김경민 20172032\김경민 20172032\bin\Debug\김경민 20172032.pdb
+D:\김경민 20172032\김경민 20172032\obj\Debug\김경민_20172032.Form1.resources
+D:\김경민 20172032\김경민 20172032\obj\Debug\김경민_20172032.Form2.resources
+D:\김경민 20172032\김경민 20172032\obj\Debug\김경민_20172032.Form3.resources
+D:\김경민 20172032\김경민 20172032\obj\Debug\김경민_20172032.Properties.Resources.resources
+D:\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.csproj.GenerateResource.Cache
+D:\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.csproj.AssemblyReference.cache
+D:\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.csproj.CoreCompileInputs.cache
+E:\객체지향 윈도우즈 연습\김경민 20172032\김경민 20172032\bin\Debug\김경민 20172032.exe.config
+E:\객체지향 윈도우즈 연습\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.exe
+E:\객체지향 윈도우즈 연습\김경민 20172032\김경민 20172032\obj\Debug\김경민 20172032.pdb

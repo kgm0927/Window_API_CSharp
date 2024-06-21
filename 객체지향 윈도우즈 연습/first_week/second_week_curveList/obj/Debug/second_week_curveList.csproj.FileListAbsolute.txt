@@ -1,0 +1,18 @@
+C:\Users\kgm09\source\repos\first_week\second_week_curveList\bin\Debug\second_week_curveList.exe.config
+C:\Users\kgm09\source\repos\first_week\second_week_curveList\bin\Debug\second_week_curveList.exe
+C:\Users\kgm09\source\repos\first_week\second_week_curveList\bin\Debug\second_week_curveList.pdb
+C:\Users\kgm09\source\repos\first_week\second_week_curveList\obj\Debug\second_week_curveList.csproj.AssemblyReference.cache
+C:\Users\kgm09\source\repos\first_week\second_week_curveList\obj\Debug\second_week_curveList.Form1.resources
+C:\Users\kgm09\source\repos\first_week\second_week_curveList\obj\Debug\second_week_curveList.Properties.Resources.resources
+C:\Users\kgm09\source\repos\first_week\second_week_curveList\obj\Debug\second_week_curveList.csproj.GenerateResource.cache
+C:\Users\kgm09\source\repos\first_week\second_week_curveList\obj\Debug\second_week_curveList.csproj.CoreCompileInputs.cache
+C:\Users\kgm09\source\repos\first_week\second_week_curveList\obj\Debug\second_week_curveList.exe
+C:\Users\kgm09\source\repos\first_week\second_week_curveList\obj\Debug\second_week_curveList.pdb
+F:\객체지향 윈도우즈 연습\first_week\second_week_curveList\bin\Debug\second_week_curveList.exe.config
+F:\객체지향 윈도우즈 연습\first_week\second_week_curveList\obj\Debug\second_week_curveList.exe
+F:\객체지향 윈도우즈 연습\first_week\second_week_curveList\obj\Debug\second_week_curveList.pdb
+F:\객체지향 윈도우즈 연습\first_week\second_week_curveList\bin\Debug\second_week_curveList.exe
+F:\객체지향 윈도우즈 연습\first_week\second_week_curveList\bin\Debug\second_week_curveList.pdb
+F:\객체지향 윈도우즈 연습\first_week\second_week_curveList\obj\Debug\second_week_curveList.Form1.resources
+F:\객체지향 윈도우즈 연습\first_week\second_week_curveList\obj\Debug\second_week_curveList.Properties.Resources.resources
+F:\객체지향 윈도우즈 연습\first_week\second_week_curveList\obj\Debug\second_week_curveList.csproj.GenerateResource.Cache

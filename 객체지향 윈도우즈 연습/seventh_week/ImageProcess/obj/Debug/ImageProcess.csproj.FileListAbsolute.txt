@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess\bin\Debug\ImageProcess.exe.config
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess\bin\Debug\ImageProcess.exe
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess\bin\Debug\ImageProcess.pdb
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess\obj\Debug\ImageProcess.Form1.resources
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess\obj\Debug\ImageProcess.Form2.resources
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess\obj\Debug\ImageProcess.Properties.Resources.resources
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess\obj\Debug\ImageProcess.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess\obj\Debug\ImageProcess.exe
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess\obj\Debug\ImageProcess.pdb
+C:\Users\Student\Desktop\wkke1\seventh_week\ImageProcess\obj\Debug\ImageProcess.csprojResolveAssemblyReference.cache

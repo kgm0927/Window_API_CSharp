@@ -1,0 +1,21 @@
+c:\users\student\documents\visual studio 2013\Projects\5-Serialize\5-Serialize\bin\Debug\5-Serialize.exe.config
+C:\Users\Student\documents\visual studio 2013\Projects\5-Serialize\5-Serialize\obj\Debug\5-Serialize.csprojResolveAssemblyReference.cache
+C:\Users\Student\documents\visual studio 2013\Projects\5-Serialize\5-Serialize\obj\Debug\_5_Serialize.Form1.resources
+C:\Users\Student\documents\visual studio 2013\Projects\5-Serialize\5-Serialize\obj\Debug\_5_Serialize.Properties.Resources.resources
+C:\Users\Student\documents\visual studio 2013\Projects\5-Serialize\5-Serialize\obj\Debug\5-Serialize.csproj.GenerateResource.Cache
+C:\Users\Student\documents\visual studio 2013\Projects\5-Serialize\5-Serialize\bin\Debug\5-Serialize.exe
+C:\Users\Student\documents\visual studio 2013\Projects\5-Serialize\5-Serialize\bin\Debug\5-Serialize.pdb
+C:\Users\Student\documents\visual studio 2013\Projects\5-Serialize\5-Serialize\obj\Debug\5-Serialize.exe
+C:\Users\Student\documents\visual studio 2013\Projects\5-Serialize\5-Serialize\obj\Debug\5-Serialize.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-5\5-Serialize\5-Serialize\bin\Debug\5-Serialize.exe.config
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-5\5-Serialize\5-Serialize\obj\Debug\5-Serialize.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-5\5-Serialize\5-Serialize\obj\Debug\5-Serialize.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-5\5-Serialize - 복사본\5-Serialize\bin\Debug\5-Serialize.exe.config
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-5\5-Serialize - 복사본\5-Serialize\obj\Debug\5-Serialize.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-5\5-Serialize - 복사본\5-Serialize\obj\Debug\5-Serialize.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-5\5-Serialize - 복사본\5-Serialize\bin\Debug\5-Serialize.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-5\5-Serialize - 복사본\5-Serialize\bin\Debug\5-Serialize.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-5\5-Serialize - 복사본\5-Serialize\obj\Debug\5-Serialize.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-5\5-Serialize - 복사본\5-Serialize\obj\Debug\_5_Serialize.Form1.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-5\5-Serialize - 복사본\5-Serialize\obj\Debug\_5_Serialize.Properties.Resources.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-5\5-Serialize - 복사본\5-Serialize\obj\Debug\5-Serialize.csproj.GenerateResource.Cache

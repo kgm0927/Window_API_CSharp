@@ -1,0 +1,20 @@
+C:\Users\kgm09\source\repos\four_week\DrawLine_and_Dialogbox\bin\Debug\DrawLine_and_Dialogbox.exe.config
+C:\Users\kgm09\source\repos\four_week\DrawLine_and_Dialogbox\bin\Debug\DrawLine_and_Dialogbox.exe
+C:\Users\kgm09\source\repos\four_week\DrawLine_and_Dialogbox\bin\Debug\DrawLine_and_Dialogbox.pdb
+C:\Users\kgm09\source\repos\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.csproj.AssemblyReference.cache
+C:\Users\kgm09\source\repos\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.Form1.resources
+C:\Users\kgm09\source\repos\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.Properties.Resources.resources
+C:\Users\kgm09\source\repos\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.csproj.GenerateResource.cache
+C:\Users\kgm09\source\repos\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.csproj.CoreCompileInputs.cache
+C:\Users\kgm09\source\repos\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.exe
+C:\Users\kgm09\source\repos\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.pdb
+C:\Users\kgm09\source\repos\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.Form2.resources
+F:\객체지향 윈도우즈 연습\four_week\DrawLine_and_Dialogbox\bin\Debug\DrawLine_and_Dialogbox.exe.config
+F:\객체지향 윈도우즈 연습\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.exe
+F:\객체지향 윈도우즈 연습\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.pdb
+F:\객체지향 윈도우즈 연습\four_week\DrawLine_and_Dialogbox\bin\Debug\DrawLine_and_Dialogbox.exe
+F:\객체지향 윈도우즈 연습\four_week\DrawLine_and_Dialogbox\bin\Debug\DrawLine_and_Dialogbox.pdb
+F:\객체지향 윈도우즈 연습\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.Form1.resources
+F:\객체지향 윈도우즈 연습\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.Form2.resources
+F:\객체지향 윈도우즈 연습\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.Properties.Resources.resources
+F:\객체지향 윈도우즈 연습\four_week\DrawLine_and_Dialogbox\obj\Debug\DrawLine_and_Dialogbox.csproj.GenerateResource.Cache

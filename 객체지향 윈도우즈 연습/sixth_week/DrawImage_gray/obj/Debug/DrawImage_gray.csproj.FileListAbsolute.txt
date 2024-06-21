@@ -1,0 +1,12 @@
+F:\객체지향 윈도우즈 연습\sixth_week\DrawImage_gray\bin\Debug\DrawImage_gray.exe.config
+F:\객체지향 윈도우즈 연습\sixth_week\DrawImage_gray\bin\Debug\DrawImage_gray.exe
+F:\객체지향 윈도우즈 연습\sixth_week\DrawImage_gray\bin\Debug\DrawImage_gray.pdb
+F:\객체지향 윈도우즈 연습\sixth_week\DrawImage_gray\obj\Debug\DrawImage_gray.csprojResolveAssemblyReference.cache
+F:\객체지향 윈도우즈 연습\sixth_week\DrawImage_gray\obj\Debug\DrawImage_gray.Form1.resources
+F:\객체지향 윈도우즈 연습\sixth_week\DrawImage_gray\obj\Debug\DrawImage_gray.Properties.Resources.resources
+F:\객체지향 윈도우즈 연습\sixth_week\DrawImage_gray\obj\Debug\DrawImage_gray.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 연습\sixth_week\DrawImage_gray\obj\Debug\DrawImage_gray.exe
+F:\객체지향 윈도우즈 연습\sixth_week\DrawImage_gray\obj\Debug\DrawImage_gray.pdb
+E:\객체지향 윈도우즈 연습\sixth_week\DrawImage_gray\bin\Debug\DrawImage_gray.exe.config
+E:\객체지향 윈도우즈 연습\sixth_week\DrawImage_gray\obj\Debug\DrawImage_gray.exe
+E:\객체지향 윈도우즈 연습\sixth_week\DrawImage_gray\obj\Debug\DrawImage_gray.pdb

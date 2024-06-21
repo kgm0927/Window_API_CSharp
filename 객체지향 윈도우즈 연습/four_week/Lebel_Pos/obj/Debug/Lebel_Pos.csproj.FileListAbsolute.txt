@@ -1,0 +1,13 @@
+F:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\bin\Debug\Lebel_Pos.exe.config
+F:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\bin\Debug\Lebel_Pos.exe
+F:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\bin\Debug\Lebel_Pos.pdb
+F:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\obj\Debug\Lebel_Pos.csprojResolveAssemblyReference.cache
+F:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\obj\Debug\Lebel_Pos.Form1.resources
+F:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\obj\Debug\Lebel_Pos.Form2.resources
+F:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\obj\Debug\Lebel_Pos.Properties.Resources.resources
+F:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\obj\Debug\Lebel_Pos.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\obj\Debug\Lebel_Pos.exe
+F:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\obj\Debug\Lebel_Pos.pdb
+E:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\bin\Debug\Lebel_Pos.exe.config
+E:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\obj\Debug\Lebel_Pos.exe
+E:\객체지향 윈도우즈 연습\four_week\Lebel_Pos\obj\Debug\Lebel_Pos.pdb

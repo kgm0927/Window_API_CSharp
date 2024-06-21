@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointfirst_Client_server", "pointfirst_Client_server\pointfirst_Client_server.vcxproj", "{5E5E3FB2-F895-48C1-93AD-2A5AEBEE219F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointfirst_server", "pointfirst_server\pointfirst_server.vcxproj", "{232359AF-E634-4837-AE42-6A3555360E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5E3FB2-F895-48C1-93AD-2A5AEBEE219F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E5E3FB2-F895-48C1-93AD-2A5AEBEE219F}.Debug|Win32.Build.0 = Debug|Win32
+		{5E5E3FB2-F895-48C1-93AD-2A5AEBEE219F}.Release|Win32.ActiveCfg = Release|Win32
+		{5E5E3FB2-F895-48C1-93AD-2A5AEBEE219F}.Release|Win32.Build.0 = Release|Win32
+		{232359AF-E634-4837-AE42-6A3555360E9A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{232359AF-E634-4837-AE42-6A3555360E9A}.Debug|Win32.Build.0 = Debug|Win32
+		{232359AF-E634-4837-AE42-6A3555360E9A}.Release|Win32.ActiveCfg = Release|Win32
+		{232359AF-E634-4837-AE42-6A3555360E9A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

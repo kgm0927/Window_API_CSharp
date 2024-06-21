@@ -1,0 +1,39 @@
+C:\Users\Student\Desktop\wkke1\sixth_week\sixth_week\bin\Debug\sixth_week.exe.config
+C:\Users\Student\Desktop\wkke1\sixth_week\sixth_week\bin\Debug\sixth_week.exe
+C:\Users\Student\Desktop\wkke1\sixth_week\sixth_week\bin\Debug\sixth_week.pdb
+C:\Users\Student\Desktop\wkke1\sixth_week\sixth_week\obj\Debug\sixth_week.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\wkke1\sixth_week\sixth_week\obj\Debug\sixth_week.Form1.resources
+C:\Users\Student\Desktop\wkke1\sixth_week\sixth_week\obj\Debug\sixth_week.Properties.Resources.resources
+C:\Users\Student\Desktop\wkke1\sixth_week\sixth_week\obj\Debug\sixth_week.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\wkke1\sixth_week\sixth_week\obj\Debug\sixth_week.exe
+C:\Users\Student\Desktop\wkke1\sixth_week\sixth_week\obj\Debug\sixth_week.pdb
+F:\객체지향 윈도우즈 연습\sixth_week\sixth_week\bin\Debug\sixth_week.exe.config
+F:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.exe
+F:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.pdb
+F:\객체지향 윈도우즈 연습\sixth_week\sixth_week\bin\Debug\sixth_week.exe
+F:\객체지향 윈도우즈 연습\sixth_week\sixth_week\bin\Debug\sixth_week.pdb
+F:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.csprojResolveAssemblyReference.cache
+F:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.Form1.resources
+F:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.Form2.resources
+F:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.Properties.Resources.resources
+F:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.csproj.GenerateResource.Cache
+E:\객체지향 윈도우즈 연습\sixth_week\sixth_week\bin\Debug\sixth_week.exe.config
+E:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.exe
+E:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.pdb
+E:\객체지향 윈도우즈 연습\sixth_week\sixth_week\bin\Debug\sixth_week.exe
+E:\객체지향 윈도우즈 연습\sixth_week\sixth_week\bin\Debug\sixth_week.pdb
+E:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.Form1.resources
+E:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.Form2.resources
+E:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.Properties.Resources.resources
+E:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.csproj.GenerateResource.Cache
+D:\객체지향 윈도우즈 연습\sixth_week\sixth_week\bin\Debug\sixth_week.exe.config
+D:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.exe
+D:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.pdb
+D:\객체지향 윈도우즈 연습\sixth_week\sixth_week\bin\Debug\sixth_week.exe
+D:\객체지향 윈도우즈 연습\sixth_week\sixth_week\bin\Debug\sixth_week.pdb
+D:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.csprojResolveAssemblyReference.cache
+D:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.Form1.resources
+D:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.Form2.resources
+D:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.Properties.Resources.resources
+D:\객체지향 윈도우즈 연습\sixth_week\sixth_week\obj\Debug\sixth_week.csproj.GenerateResource.Cache

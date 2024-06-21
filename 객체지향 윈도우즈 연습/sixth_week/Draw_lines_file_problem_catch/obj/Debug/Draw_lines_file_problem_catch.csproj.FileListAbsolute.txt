@@ -1,0 +1,9 @@
+E:\객체지향 윈도우즈 연습\sixth_week\Draw_lines_file_problem_catch\bin\Debug\Draw_lines_file_problem_catch.exe.config
+E:\객체지향 윈도우즈 연습\sixth_week\Draw_lines_file_problem_catch\bin\Debug\Draw_lines_file_problem_catch.exe
+E:\객체지향 윈도우즈 연습\sixth_week\Draw_lines_file_problem_catch\bin\Debug\Draw_lines_file_problem_catch.pdb
+E:\객체지향 윈도우즈 연습\sixth_week\Draw_lines_file_problem_catch\obj\Debug\Draw_lines_file_problem_catch.Form1.resources
+E:\객체지향 윈도우즈 연습\sixth_week\Draw_lines_file_problem_catch\obj\Debug\Draw_lines_file_problem_catch.Form2.resources
+E:\객체지향 윈도우즈 연습\sixth_week\Draw_lines_file_problem_catch\obj\Debug\Draw_lines_file_problem_catch.Properties.Resources.resources
+E:\객체지향 윈도우즈 연습\sixth_week\Draw_lines_file_problem_catch\obj\Debug\Draw_lines_file_problem_catch.csproj.GenerateResource.Cache
+E:\객체지향 윈도우즈 연습\sixth_week\Draw_lines_file_problem_catch\obj\Debug\Draw_lines_file_problem_catch.exe
+E:\객체지향 윈도우즈 연습\sixth_week\Draw_lines_file_problem_catch\obj\Debug\Draw_lines_file_problem_catch.pdb

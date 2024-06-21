@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sixth_week", "sixth_week\sixth_week.csproj", "{EA05BF19-1B74-48E0-A530-A2819EB422DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draw_lines_file_problem_catch", "Draw_lines_file_problem_catch\Draw_lines_file_problem_catch.csproj", "{78EA2552-B3F3-48BC-859D-ADAD1AA889A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawImage", "DrawImage\DrawImage.csproj", "{D786CEFE-9C43-4CC7-AA7C-90056E9CC966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawImage_gray", "DrawImage_gray\DrawImage_gray.csproj", "{2E3FBA60-B854-4EF4-839A-C788F238E336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawImage_reverse", "DrawImage_reverse\DrawImage_reverse.csproj", "{4BC82FFC-C560-4606-97CB-ACAA06788AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Stream_Test", "Binary_Stream_Test\Binary_Stream_Test.csproj", "{D317986A-8753-45F2-9E4F-DBE758DBA547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA05BF19-1B74-48E0-A530-A2819EB422DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA05BF19-1B74-48E0-A530-A2819EB422DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA05BF19-1B74-48E0-A530-A2819EB422DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA05BF19-1B74-48E0-A530-A2819EB422DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78EA2552-B3F3-48BC-859D-ADAD1AA889A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EA2552-B3F3-48BC-859D-ADAD1AA889A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EA2552-B3F3-48BC-859D-ADAD1AA889A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EA2552-B3F3-48BC-859D-ADAD1AA889A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D786CEFE-9C43-4CC7-AA7C-90056E9CC966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D786CEFE-9C43-4CC7-AA7C-90056E9CC966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D786CEFE-9C43-4CC7-AA7C-90056E9CC966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D786CEFE-9C43-4CC7-AA7C-90056E9CC966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3FBA60-B854-4EF4-839A-C788F238E336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3FBA60-B854-4EF4-839A-C788F238E336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3FBA60-B854-4EF4-839A-C788F238E336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3FBA60-B854-4EF4-839A-C788F238E336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC82FFC-C560-4606-97CB-ACAA06788AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC82FFC-C560-4606-97CB-ACAA06788AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC82FFC-C560-4606-97CB-ACAA06788AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC82FFC-C560-4606-97CB-ACAA06788AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D317986A-8753-45F2-9E4F-DBE758DBA547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D317986A-8753-45F2-9E4F-DBE758DBA547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D317986A-8753-45F2-9E4F-DBE758DBA547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D317986A-8753-45F2-9E4F-DBE758DBA547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

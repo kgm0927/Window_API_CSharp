@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\wkke1\seventh_week\Drawline_darker_and_lighter\bin\Debug\Drawline_darker_and_lighter.exe.config
+C:\Users\Student\Desktop\wkke1\seventh_week\Drawline_darker_and_lighter\bin\Debug\Drawline_darker_and_lighter.exe
+C:\Users\Student\Desktop\wkke1\seventh_week\Drawline_darker_and_lighter\bin\Debug\Drawline_darker_and_lighter.pdb
+C:\Users\Student\Desktop\wkke1\seventh_week\Drawline_darker_and_lighter\obj\Debug\Drawline_darker_and_lighter.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\wkke1\seventh_week\Drawline_darker_and_lighter\obj\Debug\Drawline_darker_and_lighter.Form1.resources
+C:\Users\Student\Desktop\wkke1\seventh_week\Drawline_darker_and_lighter\obj\Debug\Drawline_darker_and_lighter.Form2.resources
+C:\Users\Student\Desktop\wkke1\seventh_week\Drawline_darker_and_lighter\obj\Debug\Drawline_darker_and_lighter.Properties.Resources.resources
+C:\Users\Student\Desktop\wkke1\seventh_week\Drawline_darker_and_lighter\obj\Debug\Drawline_darker_and_lighter.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\wkke1\seventh_week\Drawline_darker_and_lighter\obj\Debug\Drawline_darker_and_lighter.exe
+C:\Users\Student\Desktop\wkke1\seventh_week\Drawline_darker_and_lighter\obj\Debug\Drawline_darker_and_lighter.pdb

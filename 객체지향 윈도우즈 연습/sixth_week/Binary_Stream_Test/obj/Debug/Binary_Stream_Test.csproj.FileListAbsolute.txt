@@ -1,0 +1,15 @@
+F:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\bin\Debug\Binary_Stream_Test.exe.config
+F:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\bin\Debug\Binary_Stream_Test.exe
+F:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\bin\Debug\Binary_Stream_Test.pdb
+F:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\obj\Debug\Binary_Stream_Test.csprojResolveAssemblyReference.cache
+F:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\obj\Debug\Binary_Stream_Test.Form1.resources
+F:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\obj\Debug\Binary_Stream_Test.Properties.Resources.resources
+F:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\obj\Debug\Binary_Stream_Test.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\obj\Debug\Binary_Stream_Test.exe
+F:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\obj\Debug\Binary_Stream_Test.pdb
+D:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\bin\Debug\Binary_Stream_Test.exe.config
+D:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\obj\Debug\Binary_Stream_Test.exe
+D:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\obj\Debug\Binary_Stream_Test.pdb
+E:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\bin\Debug\Binary_Stream_Test.exe.config
+E:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\obj\Debug\Binary_Stream_Test.exe
+E:\객체지향 윈도우즈 연습\sixth_week\Binary_Stream_Test\obj\Debug\Binary_Stream_Test.pdb

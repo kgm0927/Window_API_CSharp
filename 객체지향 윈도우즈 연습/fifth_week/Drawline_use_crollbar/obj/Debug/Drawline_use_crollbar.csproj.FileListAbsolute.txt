@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_use_crollbar\bin\Debug\Drawline_use_crollbar.exe.config
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_use_crollbar\obj\Debug\Drawline_use_crollbar.Form1.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_use_crollbar\obj\Debug\Drawline_use_crollbar.Form2.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_use_crollbar\obj\Debug\Drawline_use_crollbar.Properties.Resources.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_use_crollbar\obj\Debug\Drawline_use_crollbar.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_use_crollbar\bin\Debug\Drawline_use_crollbar.exe
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_use_crollbar\bin\Debug\Drawline_use_crollbar.pdb
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_use_crollbar\obj\Debug\Drawline_use_crollbar.exe
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_use_crollbar\obj\Debug\Drawline_use_crollbar.pdb
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_use_crollbar\obj\Debug\Drawline_use_crollbar.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+F:\객체지향 윈도우즈 연습\four_week\mixControl\bin\Debug\mixControl.exe.config
+F:\객체지향 윈도우즈 연습\four_week\mixControl\bin\Debug\mixControl.exe
+F:\객체지향 윈도우즈 연습\four_week\mixControl\bin\Debug\mixControl.pdb
+F:\객체지향 윈도우즈 연습\four_week\mixControl\obj\Debug\mixControl.csprojResolveAssemblyReference.cache
+F:\객체지향 윈도우즈 연습\four_week\mixControl\obj\Debug\mixControl.Form1.resources
+F:\객체지향 윈도우즈 연습\four_week\mixControl\obj\Debug\mixControl.Properties.Resources.resources
+F:\객체지향 윈도우즈 연습\four_week\mixControl\obj\Debug\mixControl.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 연습\four_week\mixControl\obj\Debug\mixControl.exe
+F:\객체지향 윈도우즈 연습\four_week\mixControl\obj\Debug\mixControl.pdb

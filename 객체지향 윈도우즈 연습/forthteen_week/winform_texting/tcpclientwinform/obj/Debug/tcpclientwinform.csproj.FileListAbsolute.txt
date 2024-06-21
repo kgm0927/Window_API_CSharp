@@ -1,0 +1,10 @@
+c:\users\db\documents\visual studio 2013\Projects\winform_texting\tcpclientwinform\bin\Debug\tcpclientwinform.exe.config
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpclientwinform\bin\Debug\tcpclientwinform.exe.config
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpclientwinform\bin\Debug\tcpclientwinform.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpclientwinform\bin\Debug\tcpclientwinform.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpclientwinform\obj\Debug\tcpclientwinform.Form1.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpclientwinform\obj\Debug\tcpclientwinform.Properties.Resources.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpclientwinform\obj\Debug\tcpclientwinform.csproj.GenerateResource.Cache
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpclientwinform\obj\Debug\tcpclientwinform.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpclientwinform\obj\Debug\tcpclientwinform.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpclientwinform\obj\Debug\tcpclientwinform.csprojResolveAssemblyReference.cache

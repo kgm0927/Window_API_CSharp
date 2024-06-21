@@ -1,0 +1,20 @@
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_about_change_color\bin\Debug\Drawline_about_change_color.exe.config
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_about_change_color\bin\Debug\Drawline_about_change_color.exe
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_about_change_color\bin\Debug\Drawline_about_change_color.pdb
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.Form1.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.Form2.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.Properties.Resources.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.exe
+C:\Users\Student\Desktop\wkke1\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.pdb
+E:\객체지향 윈도우즈 연습\fifth_week\Drawline_about_change_color\bin\Debug\Drawline_about_change_color.exe.config
+E:\객체지향 윈도우즈 연습\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.exe
+E:\객체지향 윈도우즈 연습\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.pdb
+E:\객체지향 윈도우즈 연습\fifth_week\Drawline_about_change_color\bin\Debug\Drawline_about_change_color.exe
+E:\객체지향 윈도우즈 연습\fifth_week\Drawline_about_change_color\bin\Debug\Drawline_about_change_color.pdb
+E:\객체지향 윈도우즈 연습\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 연습\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.Form1.resources
+E:\객체지향 윈도우즈 연습\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.Form2.resources
+E:\객체지향 윈도우즈 연습\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.Properties.Resources.resources
+E:\객체지향 윈도우즈 연습\fifth_week\Drawline_about_change_color\obj\Debug\Drawline_about_change_color.csproj.GenerateResource.Cache

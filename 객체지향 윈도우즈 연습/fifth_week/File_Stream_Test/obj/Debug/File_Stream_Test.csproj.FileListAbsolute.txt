@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\wkke1\fifth_week\File_Stream_Test\bin\Debug\File_Stream_Test.exe.config
+C:\Users\Student\Desktop\wkke1\fifth_week\File_Stream_Test\obj\Debug\File_Stream_Test.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\wkke1\fifth_week\File_Stream_Test\obj\Debug\File_Stream_Test.Form1.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\File_Stream_Test\obj\Debug\File_Stream_Test.Properties.Resources.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\File_Stream_Test\obj\Debug\File_Stream_Test.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\wkke1\fifth_week\File_Stream_Test\bin\Debug\File_Stream_Test.exe
+C:\Users\Student\Desktop\wkke1\fifth_week\File_Stream_Test\bin\Debug\File_Stream_Test.pdb
+C:\Users\Student\Desktop\wkke1\fifth_week\File_Stream_Test\obj\Debug\File_Stream_Test.exe
+C:\Users\Student\Desktop\wkke1\fifth_week\File_Stream_Test\obj\Debug\File_Stream_Test.pdb

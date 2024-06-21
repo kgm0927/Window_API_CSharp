@@ -1,0 +1,10 @@
+C:\Users\kgm09\source\repos\first_week\first_week\bin\Debug\first_week.exe.config
+C:\Users\kgm09\source\repos\first_week\first_week\bin\Debug\first_week.exe
+C:\Users\kgm09\source\repos\first_week\first_week\bin\Debug\first_week.pdb
+C:\Users\kgm09\source\repos\first_week\first_week\obj\Debug\first_week.csproj.AssemblyReference.cache
+C:\Users\kgm09\source\repos\first_week\first_week\obj\Debug\first_week.Form1.resources
+C:\Users\kgm09\source\repos\first_week\first_week\obj\Debug\first_week.Properties.Resources.resources
+C:\Users\kgm09\source\repos\first_week\first_week\obj\Debug\first_week.csproj.GenerateResource.cache
+C:\Users\kgm09\source\repos\first_week\first_week\obj\Debug\first_week.csproj.CoreCompileInputs.cache
+C:\Users\kgm09\source\repos\first_week\first_week\obj\Debug\first_week.exe
+C:\Users\kgm09\source\repos\first_week\first_week\obj\Debug\first_week.pdb

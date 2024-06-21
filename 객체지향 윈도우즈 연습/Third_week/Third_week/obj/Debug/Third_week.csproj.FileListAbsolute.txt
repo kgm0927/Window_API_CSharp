@@ -1,0 +1,13 @@
+C:\Users\kgm09\source\repos\Third_week\Third_week\bin\Debug\Third_week.exe.config
+C:\Users\kgm09\source\repos\Third_week\Third_week\bin\Debug\Third_week.exe
+C:\Users\kgm09\source\repos\Third_week\Third_week\bin\Debug\Third_week.pdb
+C:\Users\kgm09\source\repos\Third_week\Third_week\obj\Debug\Third_week.csproj.AssemblyReference.cache
+C:\Users\kgm09\source\repos\Third_week\Third_week\obj\Debug\Third_week.Form1.resources
+C:\Users\kgm09\source\repos\Third_week\Third_week\obj\Debug\Third_week.Properties.Resources.resources
+C:\Users\kgm09\source\repos\Third_week\Third_week\obj\Debug\Third_week.csproj.GenerateResource.cache
+C:\Users\kgm09\source\repos\Third_week\Third_week\obj\Debug\Third_week.csproj.CoreCompileInputs.cache
+C:\Users\kgm09\source\repos\Third_week\Third_week\obj\Debug\Third_week.exe
+C:\Users\kgm09\source\repos\Third_week\Third_week\obj\Debug\Third_week.pdb
+F:\객체지향 윈도우즈 연습\Third_week\Third_week\bin\Debug\Third_week.exe.config
+F:\객체지향 윈도우즈 연습\Third_week\Third_week\obj\Debug\Third_week.exe
+F:\객체지향 윈도우즈 연습\Third_week\Third_week\obj\Debug\Third_week.pdb

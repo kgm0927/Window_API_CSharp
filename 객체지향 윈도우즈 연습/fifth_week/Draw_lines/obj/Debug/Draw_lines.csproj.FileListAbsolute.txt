@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\wkke1\fifth_week\Draw_lines\bin\Debug\Draw_lines.exe.config
+C:\Users\Student\Desktop\wkke1\fifth_week\Draw_lines\bin\Debug\Draw_lines.exe
+C:\Users\Student\Desktop\wkke1\fifth_week\Draw_lines\bin\Debug\Draw_lines.pdb
+C:\Users\Student\Desktop\wkke1\fifth_week\Draw_lines\obj\Debug\Draw_lines.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\wkke1\fifth_week\Draw_lines\obj\Debug\Draw_lines.Form1.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\Draw_lines\obj\Debug\Draw_lines.Form2.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\Draw_lines\obj\Debug\Draw_lines.Properties.Resources.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\Draw_lines\obj\Debug\Draw_lines.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\wkke1\fifth_week\Draw_lines\obj\Debug\Draw_lines.exe
+C:\Users\Student\Desktop\wkke1\fifth_week\Draw_lines\obj\Debug\Draw_lines.pdb

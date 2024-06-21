@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\wkke1\fifth_week\file_open_test_with_dlg\bin\Debug\file_open_test_with_dlg.exe.config
+C:\Users\Student\Desktop\wkke1\fifth_week\file_open_test_with_dlg\obj\Debug\file_open_test_with_dlg.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\wkke1\fifth_week\file_open_test_with_dlg\obj\Debug\file_open_test_with_dlg.Form1.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\file_open_test_with_dlg\obj\Debug\file_open_test_with_dlg.Properties.Resources.resources
+C:\Users\Student\Desktop\wkke1\fifth_week\file_open_test_with_dlg\obj\Debug\file_open_test_with_dlg.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\wkke1\fifth_week\file_open_test_with_dlg\bin\Debug\file_open_test_with_dlg.exe
+C:\Users\Student\Desktop\wkke1\fifth_week\file_open_test_with_dlg\bin\Debug\file_open_test_with_dlg.pdb
+C:\Users\Student\Desktop\wkke1\fifth_week\file_open_test_with_dlg\obj\Debug\file_open_test_with_dlg.exe
+C:\Users\Student\Desktop\wkke1\fifth_week\file_open_test_with_dlg\obj\Debug\file_open_test_with_dlg.pdb
+F:\객체지향 윈도우즈 연습\fifth_week\file_open_test_with_dlg\bin\Debug\file_open_test_with_dlg.exe.config
+F:\객체지향 윈도우즈 연습\fifth_week\file_open_test_with_dlg\obj\Debug\file_open_test_with_dlg.exe
+F:\객체지향 윈도우즈 연습\fifth_week\file_open_test_with_dlg\obj\Debug\file_open_test_with_dlg.pdb
+E:\객체지향 윈도우즈 연습\fifth_week\file_open_test_with_dlg\bin\Debug\file_open_test_with_dlg.exe.config
+E:\객체지향 윈도우즈 연습\fifth_week\file_open_test_with_dlg\obj\Debug\file_open_test_with_dlg.exe
+E:\객체지향 윈도우즈 연습\fifth_week\file_open_test_with_dlg\obj\Debug\file_open_test_with_dlg.pdb

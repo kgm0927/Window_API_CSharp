@@ -1,0 +1,9 @@
+F:\객체지향 윈도우즈 연습\four_week\make_dialog\bin\Debug\make_dialog.exe.config
+F:\객체지향 윈도우즈 연습\four_week\make_dialog\bin\Debug\make_dialog.exe
+F:\객체지향 윈도우즈 연습\four_week\make_dialog\bin\Debug\make_dialog.pdb
+F:\객체지향 윈도우즈 연습\four_week\make_dialog\obj\Debug\make_dialog.Form1.resources
+F:\객체지향 윈도우즈 연습\four_week\make_dialog\obj\Debug\make_dialog.Form2.resources
+F:\객체지향 윈도우즈 연습\four_week\make_dialog\obj\Debug\make_dialog.Properties.Resources.resources
+F:\객체지향 윈도우즈 연습\four_week\make_dialog\obj\Debug\make_dialog.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 연습\four_week\make_dialog\obj\Debug\make_dialog.exe
+F:\객체지향 윈도우즈 연습\four_week\make_dialog\obj\Debug\make_dialog.pdb

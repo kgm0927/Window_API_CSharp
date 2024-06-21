@@ -1,0 +1,21 @@
+c:\users\student\documents\visual studio 2013\Projects\Serialize_1\serialize_1\bin\Debug\serialize_1.exe.config
+c:\users\student\documents\visual studio 2013\Projects\Serialize_1\serialize_1\bin\Debug\serialize_1.exe
+c:\users\student\documents\visual studio 2013\Projects\Serialize_1\serialize_1\bin\Debug\serialize_1.pdb
+c:\users\student\documents\visual studio 2013\Projects\Serialize_1\serialize_1\obj\Debug\serialize_1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\Serialize_1\serialize_1\obj\Debug\serialize_1.Form1.resources
+c:\users\student\documents\visual studio 2013\Projects\Serialize_1\serialize_1\obj\Debug\serialize_1.Properties.Resources.resources
+c:\users\student\documents\visual studio 2013\Projects\Serialize_1\serialize_1\obj\Debug\serialize_1.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2013\Projects\Serialize_1\serialize_1\obj\Debug\serialize_1.exe
+c:\users\student\documents\visual studio 2013\Projects\Serialize_1\serialize_1\obj\Debug\serialize_1.pdb
+C:\Users\Student\Documents\visual studio 2013\Projects\Serialize_1 - 복사본\serialize_1\bin\Debug\serialize_1.exe.config
+C:\Users\Student\Documents\visual studio 2013\Projects\Serialize_1 - 복사본\serialize_1\obj\Debug\serialize_1.exe
+C:\Users\Student\Documents\visual studio 2013\Projects\Serialize_1 - 복사본\serialize_1\obj\Debug\serialize_1.pdb
+C:\Users\Student\Documents\visual studio 2013\Projects\Serialize_1 - 복사본\serialize_1\bin\Debug\serialize_1.exe
+C:\Users\Student\Documents\visual studio 2013\Projects\Serialize_1 - 복사본\serialize_1\bin\Debug\serialize_1.pdb
+C:\Users\Student\Documents\visual studio 2013\Projects\Serialize_1 - 복사본\serialize_1\obj\Debug\serialize_1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\visual studio 2013\Projects\Serialize_1 - 복사본\serialize_1\obj\Debug\serialize_1.Form1.resources
+C:\Users\Student\Documents\visual studio 2013\Projects\Serialize_1 - 복사본\serialize_1\obj\Debug\serialize_1.Properties.Resources.resources
+C:\Users\Student\Documents\visual studio 2013\Projects\Serialize_1 - 복사본\serialize_1\obj\Debug\serialize_1.csproj.GenerateResource.Cache
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-1\Serialize_1 - 복사본\serialize_1\bin\Debug\serialize_1.exe.config
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-1\Serialize_1 - 복사본\serialize_1\obj\Debug\serialize_1.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize-1\Serialize_1 - 복사본\serialize_1\obj\Debug\serialize_1.pdb

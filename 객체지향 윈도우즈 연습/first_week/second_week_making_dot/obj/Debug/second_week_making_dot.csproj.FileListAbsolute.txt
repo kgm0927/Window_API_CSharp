@@ -1,0 +1,19 @@
+C:\Users\kgm09\source\repos\first_week\second_week_making_dot\bin\Debug\second_week_making_dot.exe.config
+C:\Users\kgm09\source\repos\first_week\second_week_making_dot\bin\Debug\second_week_making_dot.exe
+C:\Users\kgm09\source\repos\first_week\second_week_making_dot\bin\Debug\second_week_making_dot.pdb
+C:\Users\kgm09\source\repos\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.csproj.AssemblyReference.cache
+C:\Users\kgm09\source\repos\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.Form1.resources
+C:\Users\kgm09\source\repos\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.Properties.Resources.resources
+C:\Users\kgm09\source\repos\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.csproj.GenerateResource.cache
+C:\Users\kgm09\source\repos\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.csproj.CoreCompileInputs.cache
+C:\Users\kgm09\source\repos\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.exe
+C:\Users\kgm09\source\repos\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.pdb
+F:\객체지향 윈도우즈 연습\first_week\second_week_making_dot\bin\Debug\second_week_making_dot.exe.config
+F:\객체지향 윈도우즈 연습\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.exe
+F:\객체지향 윈도우즈 연습\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.pdb
+F:\객체지향 윈도우즈 연습\first_week\second_week_making_dot\bin\Debug\second_week_making_dot.exe
+F:\객체지향 윈도우즈 연습\first_week\second_week_making_dot\bin\Debug\second_week_making_dot.pdb
+F:\객체지향 윈도우즈 연습\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.Form1.resources
+F:\객체지향 윈도우즈 연습\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.Properties.Resources.resources
+F:\객체지향 윈도우즈 연습\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 연습\first_week\second_week_making_dot\obj\Debug\second_week_making_dot.csprojResolveAssemblyReference.cache

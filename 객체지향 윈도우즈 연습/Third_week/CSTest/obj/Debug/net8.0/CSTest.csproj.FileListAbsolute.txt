@@ -1,0 +1,14 @@
+C:\Users\kgm09\source\repos\Third_week\CSTest\bin\Debug\net8.0\CSTest.exe
+C:\Users\kgm09\source\repos\Third_week\CSTest\bin\Debug\net8.0\CSTest.deps.json
+C:\Users\kgm09\source\repos\Third_week\CSTest\bin\Debug\net8.0\CSTest.runtimeconfig.json
+C:\Users\kgm09\source\repos\Third_week\CSTest\bin\Debug\net8.0\CSTest.dll
+C:\Users\kgm09\source\repos\Third_week\CSTest\bin\Debug\net8.0\CSTest.pdb
+C:\Users\kgm09\source\repos\Third_week\CSTest\obj\Debug\net8.0\CSTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgm09\source\repos\Third_week\CSTest\obj\Debug\net8.0\CSTest.AssemblyInfoInputs.cache
+C:\Users\kgm09\source\repos\Third_week\CSTest\obj\Debug\net8.0\CSTest.AssemblyInfo.cs
+C:\Users\kgm09\source\repos\Third_week\CSTest\obj\Debug\net8.0\CSTest.csproj.CoreCompileInputs.cache
+C:\Users\kgm09\source\repos\Third_week\CSTest\obj\Debug\net8.0\CSTest.dll
+C:\Users\kgm09\source\repos\Third_week\CSTest\obj\Debug\net8.0\refint\CSTest.dll
+C:\Users\kgm09\source\repos\Third_week\CSTest\obj\Debug\net8.0\CSTest.pdb
+C:\Users\kgm09\source\repos\Third_week\CSTest\obj\Debug\net8.0\CSTest.genruntimeconfig.cache
+C:\Users\kgm09\source\repos\Third_week\CSTest\obj\Debug\net8.0\ref\CSTest.dll

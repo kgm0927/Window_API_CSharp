@@ -1,0 +1,19 @@
+C:\Users\kgm09\source\repos\first_week\second_week_curve\obj\Debug\second_week_curve.csproj.AssemblyReference.cache
+C:\Users\kgm09\source\repos\first_week\second_week_curve\obj\Debug\second_week_curve.Form1.resources
+C:\Users\kgm09\source\repos\first_week\second_week_curve\obj\Debug\second_week_curve.Properties.Resources.resources
+C:\Users\kgm09\source\repos\first_week\second_week_curve\obj\Debug\second_week_curve.csproj.GenerateResource.cache
+C:\Users\kgm09\source\repos\first_week\second_week_curve\obj\Debug\second_week_curve.csproj.CoreCompileInputs.cache
+C:\Users\kgm09\source\repos\first_week\second_week_curve\bin\Debug\second_week_curve.exe.config
+C:\Users\kgm09\source\repos\first_week\second_week_curve\bin\Debug\second_week_curve.exe
+C:\Users\kgm09\source\repos\first_week\second_week_curve\bin\Debug\second_week_curve.pdb
+C:\Users\kgm09\source\repos\first_week\second_week_curve\obj\Debug\second_week_curve.exe
+C:\Users\kgm09\source\repos\first_week\second_week_curve\obj\Debug\second_week_curve.pdb
+F:\객체지향 윈도우즈 연습\first_week\second_week_curve\bin\Debug\second_week_curve.exe.config
+F:\객체지향 윈도우즈 연습\first_week\second_week_curve\obj\Debug\second_week_curve.exe
+F:\객체지향 윈도우즈 연습\first_week\second_week_curve\obj\Debug\second_week_curve.pdb
+F:\객체지향 윈도우즈 연습\first_week\second_week_curve\obj\Debug\second_week_curve.csprojResolveAssemblyReference.cache
+F:\객체지향 윈도우즈 연습\first_week\second_week_curve\obj\Debug\second_week_curve.Form1.resources
+F:\객체지향 윈도우즈 연습\first_week\second_week_curve\obj\Debug\second_week_curve.Properties.Resources.resources
+F:\객체지향 윈도우즈 연습\first_week\second_week_curve\obj\Debug\second_week_curve.csproj.GenerateResource.Cache
+F:\객체지향 윈도우즈 연습\first_week\second_week_curve\bin\Debug\second_week_curve.exe
+F:\객체지향 윈도우즈 연습\first_week\second_week_curve\bin\Debug\second_week_curve.pdb

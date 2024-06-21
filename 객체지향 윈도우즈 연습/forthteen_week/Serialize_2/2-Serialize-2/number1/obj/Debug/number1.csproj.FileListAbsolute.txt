@@ -1,0 +1,18 @@
+C:\Users\Student\Desktop\week14\2-Serialize-2\number1\bin\Debug\number1.exe.config
+C:\Users\Student\Desktop\week14\2-Serialize-2\number1\bin\Debug\number1.exe
+C:\Users\Student\Desktop\week14\2-Serialize-2\number1\bin\Debug\number1.pdb
+C:\Users\Student\Desktop\week14\2-Serialize-2\number1\obj\Debug\number1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\week14\2-Serialize-2\number1\obj\Debug\number1.Form1.resources
+C:\Users\Student\Desktop\week14\2-Serialize-2\number1\obj\Debug\number1.Properties.Resources.resources
+C:\Users\Student\Desktop\week14\2-Serialize-2\number1\obj\Debug\number1.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\week14\2-Serialize-2\number1\obj\Debug\number1.exe
+C:\Users\Student\Desktop\week14\2-Serialize-2\number1\obj\Debug\number1.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize_2\2-Serialize-2\number1\bin\Debug\number1.exe.config
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize_2\2-Serialize-2\number1\obj\Debug\number1.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize_2\2-Serialize-2\number1\obj\Debug\number1.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize_2\2-Serialize-2\number1\bin\Debug\number1.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize_2\2-Serialize-2\number1\bin\Debug\number1.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize_2\2-Serialize-2\number1\obj\Debug\number1.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize_2\2-Serialize-2\number1\obj\Debug\number1.Form1.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize_2\2-Serialize-2\number1\obj\Debug\number1.Properties.Resources.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\Serialize_2\2-Serialize-2\number1\obj\Debug\number1.csproj.GenerateResource.Cache

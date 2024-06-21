@@ -1,0 +1,9 @@
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpserverwinform\bin\Debug\tcpserverwinform.exe.config
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpserverwinform\bin\Debug\tcpserverwinform.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpserverwinform\bin\Debug\tcpserverwinform.pdb
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpserverwinform\obj\Debug\tcpserverwinform.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpserverwinform\obj\Debug\tcpserverwinform.Form1.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpserverwinform\obj\Debug\tcpserverwinform.Properties.Resources.resources
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpserverwinform\obj\Debug\tcpserverwinform.csproj.GenerateResource.Cache
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpserverwinform\obj\Debug\tcpserverwinform.exe
+E:\객체지향 윈도우즈 연습\forthteen_week\winform_texting\tcpserverwinform\obj\Debug\tcpserverwinform.pdb
