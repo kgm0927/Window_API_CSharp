@@ -1,0 +1,1 @@
+E:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\3-Serialize 통신-동기화-Invalidate() and Update() 조금 길어짐\20143184_하지훈\bin\Debug\20143184_하지훈.exe.config

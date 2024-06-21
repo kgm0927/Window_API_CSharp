@@ -1,0 +1,8 @@
+E:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\3-Serialize 통신-동기화-Invalidate() and Update() 조금 길어짐\20143184_하지훈_2\bin\Debug\20143184_하지훈.exe.config
+E:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\3-Serialize 통신-동기화-Invalidate() and Update() 조금 길어짐\20143184_하지훈_2\bin\Debug\20143184_하지훈.exe
+E:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\3-Serialize 통신-동기화-Invalidate() and Update() 조금 길어짐\20143184_하지훈_2\bin\Debug\20143184_하지훈.pdb
+E:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\3-Serialize 통신-동기화-Invalidate() and Update() 조금 길어짐\20143184_하지훈_2\obj\Debug\_20143184_하지훈.Form1.resources
+E:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\3-Serialize 통신-동기화-Invalidate() and Update() 조금 길어짐\20143184_하지훈_2\obj\Debug\_20143184_하지훈.Properties.Resources.resources
+E:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\3-Serialize 통신-동기화-Invalidate() and Update() 조금 길어짐\20143184_하지훈_2\obj\Debug\20143184_하지훈.csproj.GenerateResource.Cache
+E:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\3-Serialize 통신-동기화-Invalidate() and Update() 조금 길어짐\20143184_하지훈_2\obj\Debug\20143184_하지훈.exe
+E:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\3-Serialize 통신-동기화-Invalidate() and Update() 조금 길어짐\20143184_하지훈_2\obj\Debug\20143184_하지훈.pdb

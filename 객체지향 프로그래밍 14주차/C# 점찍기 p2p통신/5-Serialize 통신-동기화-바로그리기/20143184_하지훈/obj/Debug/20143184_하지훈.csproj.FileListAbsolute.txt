@@ -1,0 +1,21 @@
+C:\Users\Student\Desktop\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\bin\Debug\20143184_하지훈.exe.config
+C:\Users\Student\Desktop\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\bin\Debug\20143184_하지훈.exe
+C:\Users\Student\Desktop\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\bin\Debug\20143184_하지훈.pdb
+C:\Users\Student\Desktop\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\20143184_하지훈.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\_20143184_하지훈.Form1.resources
+C:\Users\Student\Desktop\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\_20143184_하지훈.Properties.Resources.resources
+C:\Users\Student\Desktop\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\20143184_하지훈.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\20143184_하지훈.exe
+C:\Users\Student\Desktop\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\20143184_하지훈.pdb
+E:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\bin\Debug\20143184_하지훈.exe.config
+E:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\20143184_하지훈.exe
+E:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\20143184_하지훈.pdb
+D:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\bin\Debug\20143184_하지훈.exe.config
+D:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\20143184_하지훈.exe
+D:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\20143184_하지훈.pdb
+D:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\bin\Debug\20143184_하지훈.exe
+D:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\bin\Debug\20143184_하지훈.pdb
+D:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\20143184_하지훈.csprojResolveAssemblyReference.cache
+D:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\_20143184_하지훈.Form1.resources
+D:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\_20143184_하지훈.Properties.Resources.resources
+D:\객체지향 프로그래밍 14주차\C# 점찍기 p2p통신\5-Serialize 통신-동기화-바로그리기\20143184_하지훈\obj\Debug\20143184_하지훈.csproj.GenerateResource.Cache
