@@ -1,0 +1,37 @@
+//sender
+struct MyPoint
+{
+	int x1, y1;
+};
+struct MyPoint data;
+
+
+case WM_LBUTTONDOWN:
+		x=LOWORD(lParam);
+		y=HIWORD(lParam);
+		my[iCount].x1=x;
+		my[iCount].y1=y;
+		retval = send(sock, (char*)&data, sizeof(struct MyPoint), 0);
+		iCount++;
+
+
+-----------------------------------------------------------------------------------
+
+typedef struct _MyPoint
+{
+	int x1, y1;
+} MyPoint;
+MyPoint buf;
+
+//receiver  Thread 함수
+.... 
+	retval = recv(client_sock, (char *)&buf, sizeof(MyPoint), 0);
+	if (retval == SOCKET_ERROR){
+		err_display("recv()");
+		break;
+	}
+	else if (retval == 0)
+		break;
+	p[iCount].x = buf.x1;
+	p[iCount++].y = buf.y1;
+	InvalidateRect(hWndMain, NULL, TRUE);

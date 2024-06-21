@@ -1,0 +1,6 @@
+﻿cl : 명령줄  warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  point.cpp
+E:\객체지향 윈도우즈 프로그래밍 12주차\P2P\1-1-1 (int형 2개로 넘기기)-Client 수정 Thread 제거\Server\point.cpp(121,4): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\객체지향 윈도우즈 프로그래밍 12주차\P2P\1-1-1 (int형 2개로 넘기기)-Client 수정 Thread 제거\Server\point.cpp(143,4): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+point.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  PointFirst.vcxproj -> E:\객체지향 윈도우즈 프로그래밍 12주차\P2P\1-1-1 (int형 2개로 넘기기)-Client 수정 Thread 제거\Server\Debug\PointFirst.exe

@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: PointFirst - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\STUDEN~1.PC-\AppData\Local\Temp\RSPDD7E.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/PointFirst.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Student.PC-25\Desktop\C#\P2P\1-1(int형 2개로 넘기기)-Server Client - 복사본\Client\point.cpp"
+]
+Creating command line "cl.exe @"C:\Users\STUDEN~1.PC-\AppData\Local\Temp\RSPDD7E.tmp"" 
+Creating temporary file "C:\Users\STUDEN~1.PC-\AppData\Local\Temp\RSPDD7F.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib ws2_32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/PointFirst.pdb" /debug /machine:I386 /out:"Debug/PointFirst.exe" /pdbtype:sept 
+".\Debug\point.obj"
+]
+Creating command line "link.exe @"C:\Users\STUDEN~1.PC-\AppData\Local\Temp\RSPDD7F.tmp""
+<h3>Output Window</h3>
+Compiling...
+point.cpp
+C:\Users\Student.PC-25\Desktop\C#\P2P\1-1(int형 2개로 넘기기)-Server Client - 복사본\Client\point.cpp(80) : warning C4101: 'hThread' : unreferenced local variable
+C:\Users\Student.PC-25\Desktop\C#\P2P\1-1(int형 2개로 넘기기)-Server Client - 복사본\Client\point.cpp(79) : warning C4101: 'ThreadID' : unreferenced local variable
+Linking...
+
+
+
+<h3>Results</h3>
+PointFirst.exe - 0 error(s), 2 warning(s)
+</pre>
+</body>
+</html>

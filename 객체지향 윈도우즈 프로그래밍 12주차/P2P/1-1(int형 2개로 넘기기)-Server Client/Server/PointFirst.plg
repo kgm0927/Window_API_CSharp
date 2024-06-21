@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: PointFirst - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\yimoogi\AppData\Local\Temp\RSPAE5A.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/PointFirst.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\실습과제\2015 P2P 원지환 - API 점찍기 Server Client\1-1(int형 2개로 넘기기)-Server Client\Server\point.cpp"
+]
+Creating command line "cl.exe @C:\Users\yimoogi\AppData\Local\Temp\RSPAE5A.tmp" 
+Creating temporary file "C:\Users\yimoogi\AppData\Local\Temp\RSPAE5B.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib ws2_32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/PointFirst.pdb" /debug /machine:I386 /out:"Debug/PointFirst.exe" /pdbtype:sept 
+".\Debug\point.obj"
+]
+Creating command line "link.exe @C:\Users\yimoogi\AppData\Local\Temp\RSPAE5B.tmp"
+<h3>Output Window</h3>
+Compiling...
+point.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+PointFirst.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
