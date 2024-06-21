@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TcpClientEx">
+</Property><Property Name="솔루션 파일" Value="D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\TcpClientEx\TcpClientEx.sln">
+</Property><Property Name="Date" Value="2013년 5월 26일 일요일">
+</Property><Property Name="Time" Value="오후 14:11">
+</Property></Properties><Event ErrorLevel="0" Project="TcpClientEx" Source="TcpClientEx\TcpClientEx.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="TcpClientEx" Source="TcpClientEx\TcpClientEx.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TcpClientEx.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="TcpClientEx.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TcpClientEx" Source="TcpClientEx\TcpClientEx.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>

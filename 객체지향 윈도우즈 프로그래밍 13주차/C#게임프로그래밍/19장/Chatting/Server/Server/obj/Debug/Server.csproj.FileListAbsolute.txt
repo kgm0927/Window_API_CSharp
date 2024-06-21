@@ -1,0 +1,8 @@
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\19장\Chatting\Server\Server\obj\Debug\Server.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\19장\Chatting\Server\Server\obj\Debug\Server.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\19장\Chatting\Server\Server\bin\Debug\Server.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\19장\Chatting\Server\Server\bin\Debug\Server.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\19장\Chatting\Server\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\19장\Chatting\Server\Server\obj\Debug\Server.Server.resources
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\19장\Chatting\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\19장\Chatting\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache

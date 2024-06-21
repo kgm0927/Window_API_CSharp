@@ -1,0 +1,9 @@
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\시험들\2014\기말고사\ThreadExam\bin\Debug\ThreadExam.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\시험들\2014\기말고사\ThreadExam\bin\Debug\ThreadExam.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\시험들\2014\기말고사\ThreadExam\obj\x86\Debug\ThreadExam.Properties.Resources.resources
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\시험들\2014\기말고사\ThreadExam\obj\x86\Debug\ThreadExam.csproj.GenerateResource.Cache
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\시험들\2014\기말고사\ThreadExam\obj\x86\Debug\ThreadExam.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\시험들\2014\기말고사\ThreadExam\obj\x86\Debug\ThreadExam.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\시험들\2014\기말고사\ThreadExam\obj\x86\Debug\ThreadExam.Form1.resources
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\C#게임프로그래밍\10장\[ skk 10\ThreadExam\obj\x86\Debug\ThreadExam.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\C#게임프로그래밍\10장\[ skk 10\ThreadExam\obj\x86\Debug\ThreadExam.pdb

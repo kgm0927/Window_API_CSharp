@@ -1,0 +1,19 @@
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\SocketEx\SocketEx\obj\Debug\SocketEx.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\SocketEx\SocketEx\obj\Debug\SocketEx.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\SocketEx\SocketEx\bin\Debug\SocketEx.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\SocketEx\SocketEx\bin\Debug\SocketEx.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\SocketEx\SocketEx\obj\Debug\ResolveAssemblyReference.cache
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\C#게임프로그래밍\18장\SocketEx\SocketEx\obj\Debug\SocketEx.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\C#게임프로그래밍\18장\SocketEx\SocketEx\obj\Debug\SocketEx.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\C#게임프로그래밍\18장\SocketEx\SocketEx\bin\Debug\SocketEx.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\C#게임프로그래밍\18장\SocketEx\SocketEx\bin\Debug\SocketEx.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\C#게임프로그래밍\18장\SocketEx\SocketEx\obj\Debug\ResolveAssemblyReference.cache
+C:\[ Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\C#게임프로그래밍\18장\SocketEx\SocketEx\bin\Debug\SocketEx.exe.config
+C:\[ Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\C#게임프로그래밍\18장\SocketEx\SocketEx\obj\Debug\SocketEx.exe
+C:\[ Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\C#게임프로그래밍\18장\SocketEx\SocketEx\obj\Debug\SocketEx.pdb
+C:\[ Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\C#게임프로그래밍\18장\SocketEx - 생성패킷확인용\SocketEx\bin\Debug\SocketEx.exe.config
+C:\[ Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\C#게임프로그래밍\18장\SocketEx - 생성패킷확인용\SocketEx\obj\Debug\SocketEx.exe
+C:\[ Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\C#게임프로그래밍\18장\SocketEx - 생성패킷확인용\SocketEx\obj\Debug\SocketEx.pdb
+C:\[ Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\C#게임프로그래밍\18장\SocketEx - 생성패킷확인용\SocketEx\bin\Debug\SocketEx.exe
+C:\[ Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\C#게임프로그래밍\18장\SocketEx - 생성패킷확인용\SocketEx\bin\Debug\SocketEx.pdb
+C:\[ Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ C# 네트워크프로그래밍 - 교육자료 실습자료들\C#게임프로그래밍\18장\SocketEx - 생성패킷확인용\SocketEx\obj\Debug\SocketEx.csprojResolveAssemblyReference.cache

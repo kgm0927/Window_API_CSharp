@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\IPAddressEx.exe
+bin\Debug\IPAddressEx.pdb
+obj\Debug\IPAddressEx.exe
+obj\Debug\IPAddressEx.pdb

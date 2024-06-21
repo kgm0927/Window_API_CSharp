@@ -1,0 +1,5 @@
+bin\Debug\MyLookup.exe
+bin\Debug\MyLookup.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyLookup.exe
+obj\Debug\MyLookup.pdb

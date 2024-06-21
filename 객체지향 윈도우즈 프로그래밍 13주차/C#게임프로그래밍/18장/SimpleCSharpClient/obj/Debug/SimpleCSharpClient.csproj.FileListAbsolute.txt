@@ -1,0 +1,21 @@
+C:\Users\Yimoogi\Desktop\SimpleCSharpClient\bin\Debug\SimpleCSharpClient.exe.config
+C:\Users\Yimoogi\Desktop\SimpleCSharpClient\obj\Debug\SimpleCSharpClient.csprojResolveAssemblyReference.cache
+C:\Users\Yimoogi\Desktop\SimpleCSharpClient\bin\Debug\SimpleCSharpClient.exe
+C:\Users\Yimoogi\Desktop\SimpleCSharpClient\bin\Debug\SimpleCSharpClient.pdb
+C:\Users\Yimoogi\Desktop\SimpleCSharpClient\obj\Debug\SimpleCSharpClient.exe
+C:\Users\Yimoogi\Desktop\SimpleCSharpClient\obj\Debug\SimpleCSharpClient.pdb
+C:\Users\Yimoogi\Desktop\C# 통신참고\SimpleCSharpClient\bin\Debug\SimpleCSharpClient.exe.config
+C:\Users\Yimoogi\Desktop\C# 통신참고\SimpleCSharpClient\obj\Debug\SimpleCSharpClient.exe
+C:\Users\Yimoogi\Desktop\C# 통신참고\SimpleCSharpClient\obj\Debug\SimpleCSharpClient.pdb
+C:\Users\Yimoogi\Desktop\C# 통신참고\SimpleCSharpClient\bin\Debug\SimpleCSharpClient.exe
+C:\Users\Yimoogi\Desktop\C# 통신참고\SimpleCSharpClient\bin\Debug\SimpleCSharpClient.pdb
+C:\Users\Yimoogi\Desktop\C# 통신참고\SimpleCSharpClient\obj\Debug\SimpleCSharpClient.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\C#게임프로그래밍\18장\SimpleCSharpClient\bin\Debug\SimpleCSharpClient.exe.config
+C:\Users\Student\Desktop\C#게임프로그래밍\18장\SimpleCSharpClient\obj\Debug\SimpleCSharpClient.exe
+C:\Users\Student\Desktop\C#게임프로그래밍\18장\SimpleCSharpClient\obj\Debug\SimpleCSharpClient.pdb
+C:\Users\Student\Desktop\C#게임프로그래밍\18장\SimpleCSharpClient\bin\Debug\SimpleCSharpClient.exe
+C:\Users\Student\Desktop\C#게임프로그래밍\18장\SimpleCSharpClient\bin\Debug\SimpleCSharpClient.pdb
+C:\Users\Student\Desktop\C#게임프로그래밍\18장\SimpleCSharpClient\obj\Debug\SimpleCSharpClient.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 프로그래밍 13주차\C#게임프로그래밍\18장\SimpleCSharpClient\bin\Debug\SimpleCSharpClient.exe.config
+E:\객체지향 윈도우즈 프로그래밍 13주차\C#게임프로그래밍\18장\SimpleCSharpClient\obj\Debug\SimpleCSharpClient.exe
+E:\객체지향 윈도우즈 프로그래밍 13주차\C#게임프로그래밍\18장\SimpleCSharpClient\obj\Debug\SimpleCSharpClient.pdb

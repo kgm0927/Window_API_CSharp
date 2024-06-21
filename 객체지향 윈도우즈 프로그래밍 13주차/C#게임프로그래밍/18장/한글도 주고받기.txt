@@ -1,0 +1,8 @@
+한글시 깨지는 방법을 해결 하기 위해서
+Encoding.GetEncoding("ks_c_5601-1987").GetBytes(send_msg); 
+ks_c_5601-1987 인코딩을 사용해야 된다고 구글링에서 찾았습니다. 
+
+-------------------------------------------------------
+ 2016:
+
+      Byte[] ByteGet = Encoding.Unicode.GetBytes(Get);

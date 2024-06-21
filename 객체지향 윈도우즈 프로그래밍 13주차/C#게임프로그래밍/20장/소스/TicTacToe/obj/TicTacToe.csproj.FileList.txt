@@ -1,0 +1,8 @@
+bin\Debug\TicTacToe.exe
+bin\Debug\TicTacToe.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TicTacToe.frmTicTacToe.resources
+obj\Debug\TicTacToe.Properties.Resources.resources
+obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+obj\Debug\TicTacToe.exe
+obj\Debug\TicTacToe.pdb

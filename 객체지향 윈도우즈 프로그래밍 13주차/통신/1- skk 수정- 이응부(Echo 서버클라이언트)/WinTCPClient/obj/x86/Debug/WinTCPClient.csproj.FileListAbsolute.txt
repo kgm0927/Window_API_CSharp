@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\통신\1- skk 수정- 이응부(Echo 서버클라이언트)\WinTCPClient\bin\Debug\WinTCPClient.exe
+C:\Users\Student\Desktop\통신\1- skk 수정- 이응부(Echo 서버클라이언트)\WinTCPClient\bin\Debug\WinTCPClient.pdb
+C:\Users\Student\Desktop\통신\1- skk 수정- 이응부(Echo 서버클라이언트)\WinTCPClient\obj\x86\Debug\WinTCPClient.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\통신\1- skk 수정- 이응부(Echo 서버클라이언트)\WinTCPClient\obj\x86\Debug\WinTCPClient.exe
+C:\Users\Student\Desktop\통신\1- skk 수정- 이응부(Echo 서버클라이언트)\WinTCPClient\obj\x86\Debug\WinTCPClient.pdb
+E:\객체지향 윈도우즈 프로그래밍 13주차\통신\1- skk 수정- 이응부(Echo 서버클라이언트)\WinTCPClient\obj\x86\Debug\WinTCPClient.exe
+E:\객체지향 윈도우즈 프로그래밍 13주차\통신\1- skk 수정- 이응부(Echo 서버클라이언트)\WinTCPClient\obj\x86\Debug\WinTCPClient.pdb
+E:\객체지향 윈도우즈 프로그래밍 13주차\통신\1- skk 수정- 이응부(Echo 서버클라이언트)\WinTCPClient\bin\Debug\WinTCPClient.exe
+E:\객체지향 윈도우즈 프로그래밍 13주차\통신\1- skk 수정- 이응부(Echo 서버클라이언트)\WinTCPClient\bin\Debug\WinTCPClient.pdb
+E:\객체지향 윈도우즈 프로그래밍 13주차\통신\1- skk 수정- 이응부(Echo 서버클라이언트)\WinTCPClient\obj\x86\Debug\WinTCPClient.csprojResolveAssemblyReference.cache

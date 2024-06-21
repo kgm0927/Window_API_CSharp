@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\통신\3- 2019 장희재TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+C:\Users\Student\Desktop\통신\3- 2019 장희재TCPEchoServer\bin\Debug\TCPEchoServer.exe
+C:\Users\Student\Desktop\통신\3- 2019 장희재TCPEchoServer\bin\Debug\TCPEchoServer.pdb
+C:\Users\Student\Desktop\통신\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\통신\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.exe
+C:\Users\Student\Desktop\통신\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.pdb
+E:\객체지향 윈도우즈 프로그래밍 13주차\통신\3- 2019 장희재TCPEchoServer\bin\Debug\TCPEchoServer.exe.config
+E:\객체지향 윈도우즈 프로그래밍 13주차\통신\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.exe
+E:\객체지향 윈도우즈 프로그래밍 13주차\통신\3- 2019 장희재TCPEchoServer\obj\Debug\TCPEchoServer.pdb

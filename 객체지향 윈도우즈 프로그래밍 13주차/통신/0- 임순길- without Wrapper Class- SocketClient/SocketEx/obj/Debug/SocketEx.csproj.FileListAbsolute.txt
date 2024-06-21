@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\통신\0- 임순길- without Wrapper Class- SocketClient\SocketEx\bin\Debug\SocketEx.exe.config
+C:\Users\Student\Desktop\통신\0- 임순길- without Wrapper Class- SocketClient\SocketEx\bin\Debug\SocketEx.exe
+C:\Users\Student\Desktop\통신\0- 임순길- without Wrapper Class- SocketClient\SocketEx\bin\Debug\SocketEx.pdb
+C:\Users\Student\Desktop\통신\0- 임순길- without Wrapper Class- SocketClient\SocketEx\obj\Debug\SocketEx.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\통신\0- 임순길- without Wrapper Class- SocketClient\SocketEx\obj\Debug\SocketEx.exe
+C:\Users\Student\Desktop\통신\0- 임순길- without Wrapper Class- SocketClient\SocketEx\obj\Debug\SocketEx.pdb
+D:\객체지향 윈도우즈 프로그래밍 13주차\통신\0- 임순길- without Wrapper Class- SocketClient\SocketEx\bin\Debug\SocketEx.exe.config
+D:\객체지향 윈도우즈 프로그래밍 13주차\통신\0- 임순길- without Wrapper Class- SocketClient\SocketEx\obj\Debug\SocketEx.exe
+D:\객체지향 윈도우즈 프로그래밍 13주차\통신\0- 임순길- without Wrapper Class- SocketClient\SocketEx\obj\Debug\SocketEx.pdb

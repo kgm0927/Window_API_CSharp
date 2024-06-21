@@ -1,0 +1,14 @@
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\MyLookup\MyLookup\obj\Debug\MyLookup.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\MyLookup\MyLookup\obj\Debug\MyLookup.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\MyLookup\MyLookup\bin\Debug\MyLookup.exe
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\MyLookup\MyLookup\bin\Debug\MyLookup.pdb
+D:\Skk Education\Study-Lang\MS.NET\닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\C# 네트워크프로그래밍 - 교육자료\18장\MyLookup\MyLookup\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\C#게임프로그래밍\18장\MyLookup\MyLookup\bin\Debug\MyLookup.exe.config
+C:\Users\Student\Desktop\C#게임프로그래밍\18장\MyLookup\MyLookup\obj\Debug\MyLookup.exe
+C:\Users\Student\Desktop\C#게임프로그래밍\18장\MyLookup\MyLookup\obj\Debug\MyLookup.pdb
+C:\Users\Student\Desktop\C#게임프로그래밍\18장\MyLookup\MyLookup\bin\Debug\MyLookup.exe
+C:\Users\Student\Desktop\C#게임프로그래밍\18장\MyLookup\MyLookup\bin\Debug\MyLookup.pdb
+C:\Users\Student\Desktop\C#게임프로그래밍\18장\MyLookup\MyLookup\obj\Debug\MyLookup.csprojResolveAssemblyReference.cache
+E:\객체지향 윈도우즈 프로그래밍 13주차\C#게임프로그래밍\18장\MyLookup\MyLookup\bin\Debug\MyLookup.exe.config
+E:\객체지향 윈도우즈 프로그래밍 13주차\C#게임프로그래밍\18장\MyLookup\MyLookup\obj\Debug\MyLookup.exe
+E:\객체지향 윈도우즈 프로그래밍 13주차\C#게임프로그래밍\18장\MyLookup\MyLookup\obj\Debug\MyLookup.pdb
